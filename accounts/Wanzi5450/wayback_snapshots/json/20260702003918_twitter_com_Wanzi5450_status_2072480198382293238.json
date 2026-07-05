@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072480188349505536"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072480198382293238",
+    "created_at": "2026-07-02T00:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072480198382293238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zkm0y2iOPJ",
+          "end": 30,
+          "expanded_url": "https://x.com/Wanzi5450/status/2072480198382293238/photo/1",
+          "media_key": "3_2072480188349505536",
+          "start": 7,
+          "url": "https://t.co/Zkm0y2iOPJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072480198382293238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲眼见证开机 https://t.co/Zkm0y2iOPJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072480188349505536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLtwDabYAAi_nK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072480188349505536"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072480198382293238",
+        "created_at": "2026-07-02T00:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072480198382293238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zkm0y2iOPJ",
+              "end": 30,
+              "expanded_url": "https://x.com/Wanzi5450/status/2072480198382293238/photo/1",
+              "media_key": "3_2072480188349505536",
+              "start": 7,
+              "url": "https://t.co/Zkm0y2iOPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072480198382293238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲眼见证开机 https://t.co/Zkm0y2iOPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 343,
+          "like_count": 20932,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 4558
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

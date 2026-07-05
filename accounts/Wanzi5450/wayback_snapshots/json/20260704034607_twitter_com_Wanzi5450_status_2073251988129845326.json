@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073251956303495168",
+        "3_2073251956299374594",
+        "3_2073251957821874176",
+        "3_2073251956311941120"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073251988129845326",
+    "created_at": "2026-07-04T03:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073251988129845326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftdm9HqMzk",
+          "end": 45,
+          "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+          "media_key": "3_2073251956303495168",
+          "start": 22,
+          "url": "https://t.co/ftdm9HqMzk"
+        },
+        {
+          "display_url": "pic.x.com/ftdm9HqMzk",
+          "end": 45,
+          "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+          "media_key": "3_2073251956299374594",
+          "start": 22,
+          "url": "https://t.co/ftdm9HqMzk"
+        },
+        {
+          "display_url": "pic.x.com/ftdm9HqMzk",
+          "end": 45,
+          "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+          "media_key": "3_2073251957821874176",
+          "start": 22,
+          "url": "https://t.co/ftdm9HqMzk"
+        },
+        {
+          "display_url": "pic.x.com/ftdm9HqMzk",
+          "end": 45,
+          "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+          "media_key": "3_2073251956311941120",
+          "start": 22,
+          "url": "https://t.co/ftdm9HqMzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073251988129845326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更新！好开心！好看的手套！还打了门嘿嘿🥳🥳 https://t.co/ftdm9HqMzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073251956303495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWrq3FagAAWy7O.jpg",
+        "width": 1802
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073251956299374594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWrq3EboAIfzQP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073251957821874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWrq8vbIAAqymy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073251956311941120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWrq3HbYAAxGyc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073251956303495168",
+            "3_2073251956299374594",
+            "3_2073251957821874176",
+            "3_2073251956311941120"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073251988129845326",
+        "created_at": "2026-07-04T03:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073251988129845326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftdm9HqMzk",
+              "end": 45,
+              "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+              "media_key": "3_2073251956303495168",
+              "start": 22,
+              "url": "https://t.co/ftdm9HqMzk"
+            },
+            {
+              "display_url": "pic.x.com/ftdm9HqMzk",
+              "end": 45,
+              "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+              "media_key": "3_2073251956299374594",
+              "start": 22,
+              "url": "https://t.co/ftdm9HqMzk"
+            },
+            {
+              "display_url": "pic.x.com/ftdm9HqMzk",
+              "end": 45,
+              "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+              "media_key": "3_2073251957821874176",
+              "start": 22,
+              "url": "https://t.co/ftdm9HqMzk"
+            },
+            {
+              "display_url": "pic.x.com/ftdm9HqMzk",
+              "end": 45,
+              "expanded_url": "https://x.com/Wanzi5450/status/2073251988129845326/photo/1",
+              "media_key": "3_2073251956311941120",
+              "start": 22,
+              "url": "https://t.co/ftdm9HqMzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073251988129845326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新！好开心！好看的手套！还打了门嘿嘿🥳🥳 https://t.co/ftdm9HqMzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 349,
+          "like_count": 21153,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4636
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072975797422572019",
+    "created_at": "2026-07-03T15:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073073391138218212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782804298591830017",
+          "start": 0,
+          "username": "cd2174715936412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073073391138218212",
+    "in_reply_to_user_id": "1782804298591830017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073063090414071992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cd2174715936412 抱歉不卖噢🤧🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072975797422572019",
+        "created_at": "2026-07-03T15:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073073391138218212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782804298591830017",
+              "start": 0,
+              "username": "cd2174715936412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073073391138218212",
+        "in_reply_to_user_id": "1782804298591830017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073063090414071992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cd2174715936412 抱歉不卖噢🤧🤧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782804298591830017",
+        "conversation_id": "2072975797422572019",
+        "created_at": "2026-07-03T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073063090414071992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073063090414071992",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072975797422572019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 老大，俺可以在你这买点pr嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 347,
+          "like_count": 21105,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4623
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T16:10:48.000Z",
+        "description": "mtf，在吃🍬，门槛52（支付宝口令红包），防止有人故意骚扰。不约，不卖，不视频。同好卡颜哦，特别好看的甚至可以贴贴~\n小号：@yanyan060607",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "yanyan060607"
+              }
+            ]
+          }
+        },
+        "id": "1782804298591830017",
+        "location": "湖南长沙",
+        "name": "言言不是誩🍥",
+        "pinned_tweet_id": "1837719448649978260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838290333433761793/sLJHAFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 72,
+          "like_count": 144,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "cd2174715936412",
+        "verified": false
+      }
+    ]
+  }
+}

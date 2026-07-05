@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072513262936350720"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072513272449053105",
+    "created_at": "2026-07-02T02:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072513272449053105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bVyQGViMVl",
+          "end": 26,
+          "expanded_url": "https://x.com/Wanzi5450/status/2072513272449053105/photo/1",
+          "media_key": "3_2072513262936350720",
+          "start": 3,
+          "url": "https://t.co/bVyQGViMVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072513272449053105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美丽 https://t.co/bVyQGViMVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072513262936350720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMML1P2bYAAmOie.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072513262936350720"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072513272449053105",
+        "created_at": "2026-07-02T02:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072513272449053105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVyQGViMVl",
+              "end": 26,
+              "expanded_url": "https://x.com/Wanzi5450/status/2072513272449053105/photo/1",
+              "media_key": "3_2072513262936350720",
+              "start": 3,
+              "url": "https://t.co/bVyQGViMVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072513272449053105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美丽 https://t.co/bVyQGViMVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 343,
+          "like_count": 20941,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 4568
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

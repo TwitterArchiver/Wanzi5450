@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072944218637807991",
+    "created_at": "2026-07-03T07:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072944218637807991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072944218637807991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打舞萌遇到一个w1萌新，爱打紫11，我带他找好玩的谱子一起玩\n结束之后他要走了，他问我\n：你手怎么弄的（指\n一阵长达3秒的沉默…\n：自己弄的（笑\n然后他笑着拜拜走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072944218637807991",
+        "created_at": "2026-07-03T07:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072944218637807991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072944218637807991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打舞萌遇到一个w1萌新，爱打紫11，我带他找好玩的谱子一起玩\n结束之后他要走了，他问我\n：你手怎么弄的（指\n一阵长达3秒的沉默…\n：自己弄的（笑\n然后他笑着拜拜走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 345,
+          "like_count": 21029,
+          "listed_count": 0,
+          "media_count": 586,
+          "tweet_count": 4600
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

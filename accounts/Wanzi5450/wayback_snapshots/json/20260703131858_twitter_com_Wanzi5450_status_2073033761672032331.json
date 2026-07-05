@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072987301895094510",
+    "created_at": "2026-07-03T13:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073033761672032331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970294321523085312",
+          "start": 0,
+          "username": "onigiri_08_k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073033761672032331",
+    "in_reply_to_user_id": "1970294321523085312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072987301895094510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onigiri_08_k 声かわいい🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63893,
+        "height": 720,
+        "media_key": "7_2072987255229284352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072987255229284352/pu/img/VXL7V1K34Ct94JKJ.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072987255229284352/pu/vid/avc1/366x270/gRiMSd9_33ru1ZEA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072987255229284352/pu/vid/avc1/490x360/4Gd3nQZmXmHIZ2CV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072987255229284352/pu/vid/avc1/980x720/mY3DOoOh0ZaLX6xs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072987255229284352/pu/pl/AgiUX644sOX7PqYF.m3u8?tag=12"
+          }
+        ],
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072987301895094510",
+        "created_at": "2026-07-03T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073033761672032331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970294321523085312",
+              "start": 0,
+              "username": "onigiri_08_k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073033761672032331",
+        "in_reply_to_user_id": "1970294321523085312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072987301895094510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onigiri_08_k 声かわいい🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072987255229284352"
+          ]
+        },
+        "author_id": "1970294321523085312",
+        "conversation_id": "2072987301895094510",
+        "created_at": "2026-07-03T10:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072987301895094510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAn4cRnqMf",
+              "end": 50,
+              "expanded_url": "https://x.com/onigiri_08_k/status/2072987301895094510/video/1",
+              "media_key": "7_2072987255229284352",
+              "start": 27,
+              "url": "https://t.co/sAn4cRnqMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072987301895094510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "さよならモルテン\n\n(ところどころ音外してるけど🫠) https://t.co/sAn4cRnqMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 347,
+          "like_count": 21086,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4616
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T01:09:16.000Z",
+        "description": "音楽の記録\n@Huryu_mkw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Huryu_mkw"
+              }
+            ]
+          }
+        },
+        "id": "1970294321523085312",
+        "location": "全て喜劇に変わるはずなんだ",
+        "name": "りり",
+        "pinned_tweet_id": "2025410406555242693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970295179040169986/qVKjHsPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 811,
+          "like_count": 8999,
+          "listed_count": 10,
+          "media_count": 153,
+          "tweet_count": 2079
+        },
+        "url": "",
+        "username": "onigiri_08_k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072199746341720367",
+    "created_at": "2026-07-01T10:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072267014685818978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818268672206741504",
+          "start": 0,
+          "username": "kuai_ai8250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072267014685818978",
+    "in_reply_to_user_id": "1818268672206741504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072263408821706968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuai_ai8250 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072199746341720367",
+        "created_at": "2026-07-01T10:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072267014685818978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818268672206741504",
+              "start": 0,
+              "username": "kuai_ai8250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072267014685818978",
+        "in_reply_to_user_id": "1818268672206741504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072263408821706968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuai_ai8250 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818268672206741504",
+        "conversation_id": "2072199746341720367",
+        "created_at": "2026-07-01T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072263408821706968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072263408821706968",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072199746341720367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 強強😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 343,
+          "like_count": 21244,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 4540
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:53:38.000Z",
+        "description": "平常就是個臉很臭的陰沉男 （我也不知道為什麼總之沒有表情就被這樣說了）/Tw/重度ACG沈迷者（嘛啊，不過我什麼都可以聊啦）今年要升高二力！（不od 不自殘 對不擠(⁠´⁠；⁠ω⁠；⁠｀⁠)）\nInstagram:@aibingkuai5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "aibingkuai5"
+              }
+            ]
+          }
+        },
+        "id": "1818268672206741504",
+        "location": "你的屁眼往裡面挖十公分在腸壁上開個洞就是我家",
+        "name": "愛冰塊",
+        "pinned_tweet_id": "2067606151836192904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063588341015351296/OQ01ORsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 244,
+          "like_count": 15563,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "kuai_ai8250",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2071535544476307553",
+    "created_at": "2026-06-29T10:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071535544476307553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491634627475546112",
+          "start": 3,
+          "username": "yuika_sabui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071535544476307553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031972137087762815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_sabui: 貴方も私も、生きましょうね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2071535544476307553",
+        "created_at": "2026-06-29T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071535544476307553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491634627475546112",
+              "start": 3,
+              "username": "yuika_sabui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535544476307553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031972137087762815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_sabui: 貴方も私も、生きましょうね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491634627475546112",
+        "conversation_id": "2031972137087762815",
+        "created_at": "2026-03-12T05:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031972137087762815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031972137087762815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20560,
+          "like_count": 947,
+          "quote_count": 11,
+          "reply_count": 77,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "貴方も私も、生きましょうね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 341,
+          "like_count": 21042,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 4514
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:46:35.000Z",
+        "description": "@yuika_singuitar のさぶ #ユイナーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 21,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yuika_singuitar"
+              }
+            ]
+          }
+        },
+        "id": "1491634627475546112",
+        "name": "『ユピカジェル』",
+        "pinned_tweet_id": "1505379107470974982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583753531923668992/RrZxlAUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8484,
+          "following_count": 1045,
+          "like_count": 2215,
+          "listed_count": 16,
+          "media_count": 42,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "yuika_sabui",
+        "verified": false
+      }
+    ]
+  }
+}

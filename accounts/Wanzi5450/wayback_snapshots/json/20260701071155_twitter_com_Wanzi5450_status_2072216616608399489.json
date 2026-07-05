@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2071985257797275675",
+    "created_at": "2026-07-01T07:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072216616608399489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438809105846603776",
+          "start": 0,
+          "username": "Leo08279879"
+        },
+        {
+          "end": 29,
+          "id": "1262011427587411973",
+          "start": 13,
+          "username": "yuika_singuitar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072216616608399489",
+    "in_reply_to_user_id": "1438809105846603776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071985257797275675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leo08279879 @yuika_singuitar めちゃかわいいいいいwwwwwwwww\nユイカちゃん大好き💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2071985251123896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMErm6kWoAAn1Ga.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2071985251082022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMErm6aXsAA1iv1.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2071985257797275675",
+        "created_at": "2026-07-01T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072216616608399489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438809105846603776",
+              "start": 0,
+              "username": "Leo08279879"
+            },
+            {
+              "end": 29,
+              "id": "1262011427587411973",
+              "start": 13,
+              "username": "yuika_singuitar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072216616608399489",
+        "in_reply_to_user_id": "1438809105846603776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071985257797275675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leo08279879 @yuika_singuitar めちゃかわいいいいいwwwwwwwww\nユイカちゃん大好き💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071985251123896320",
+            "3_2071985251082022912"
+          ]
+        },
+        "author_id": "1438809105846603776",
+        "conversation_id": "2071985257797275675",
+        "created_at": "2026-06-30T15:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071985257797275675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "ユイカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 145,
+              "id": "1262011427587411973",
+              "start": 129,
+              "username": "yuika_singuitar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy3KVLGgqC",
+              "end": 174,
+              "expanded_url": "https://x.com/Leo08279879/status/2071985257797275675/photo/1",
+              "media_key": "3_2071985251123896320",
+              "start": 151,
+              "url": "https://t.co/Cy3KVLGgqC"
+            },
+            {
+              "display_url": "pic.x.com/Cy3KVLGgqC",
+              "end": 174,
+              "expanded_url": "https://x.com/Leo08279879/status/2071985257797275675/photo/1",
+              "media_key": "3_2071985251082022912",
+              "start": 151,
+              "url": "https://t.co/Cy3KVLGgqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071985257797275675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 674,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ゆいたんの深夜インライお疲れ様❣️\n\nゆいたんって等身大で話してくれて\n全然遠い存在って感じないし\nむしろめちゃ近いなぁって思う🫶\n\nゆいたんをアーティストとしても\n勿論大好きやしリスペクトしてるけど、\n俺は1人の人間としても大好きやし\nリスペクトしてる💘\n@yuika_singuitar #ユイカ https://t.co/Cy3KVLGgqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 343,
+          "like_count": 21235,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 4535
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T10:17:02.000Z",
+        "description": "07┊︎ゆいたん、マルシィ大好き🫶┊︎Marcyhouse🏠\n2025済┊︎0108 ┊︎0109┊︎0627┊︎0926┊︎\n2026予定┊︎0504┊︎0625┊︎0627┊︎0628┊︎\n0913┊︎0919┊︎0921┊︎\n@yuika_singuitar┊︎@marcy0910┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "yuika_singuitar"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "marcy0910"
+              }
+            ]
+          }
+        },
+        "id": "1438809105846603776",
+        "location": "群馬県",
+        "name": "『𝕷𝖊𝖔』",
+        "pinned_tweet_id": "2070218352568733760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011718475295965185/oMd9NfO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 824,
+          "like_count": 13666,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 4750
+        },
+        "url": "",
+        "username": "Leo08279879",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/6/25.27『ユイカ』presents「時計草#2」開催決定！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-tokeis…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-tokeisou2/",
+                "start": 0,
+                "url": "https://t.co/DdqdXBqjeI"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "location": "↓『ユイカ』LIVE「時計草#2」 チケット申込はこちら🎫",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2063639189783253247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75837,
+          "following_count": 117,
+          "like_count": 18466,
+          "listed_count": 142,
+          "media_count": 778,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/DdqdXBqjeI",
+        "username": "yuika_singuitar",
+        "verified": true
+      }
+    ]
+  }
+}

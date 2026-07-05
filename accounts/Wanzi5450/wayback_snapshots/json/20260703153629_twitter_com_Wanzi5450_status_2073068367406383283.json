@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072975797422572019",
+    "created_at": "2026-07-03T15:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073068367406383283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060794560457154560",
+          "start": 0,
+          "username": "A6yss1cHat3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073068367406383283",
+    "in_reply_to_user_id": "2060794560457154560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073054871943786533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A6yss1cHat3 没错"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073054871943786533].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073054871943786533",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073054871943786533"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072975797422572019",
+        "created_at": "2026-07-03T15:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073068367406383283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060794560457154560",
+              "start": 0,
+              "username": "A6yss1cHat3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073068367406383283",
+        "in_reply_to_user_id": "2060794560457154560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073054871943786533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A6yss1cHat3 没错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 347,
+          "like_count": 21102,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4619
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T18:47:56.000Z",
+        "description": "幸福的西西弗斯",
+        "id": "2060794560457154560",
+        "name": "Autopsychography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061119481288736768/0fSWhA4o_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 20,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "A6yss1cHat3",
+        "verified": false
+      }
+    ]
+  }
+}

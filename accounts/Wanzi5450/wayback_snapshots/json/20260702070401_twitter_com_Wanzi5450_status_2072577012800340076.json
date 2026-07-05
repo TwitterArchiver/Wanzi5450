@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2072480198382293238",
+    "created_at": "2026-07-02T07:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072577012800340076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072577012800340076",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072575693129662696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 是的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2072480198382293238",
+        "created_at": "2026-07-02T07:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072577012800340076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072577012800340076",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072575693129662696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 是的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2072480198382293238",
+        "created_at": "2026-07-02T06:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072575693129662696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072575693129662696",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072480198382293238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 草ttw原来是会把舞萌关掉的吗（）每次凌晨走都是全开着的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 344,
+          "like_count": 20962,
+          "listed_count": 0,
+          "media_count": 580,
+          "tweet_count": 4578
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "要らない記憶を排除して重たい荷物投げ出して\nそこに残されたものは弱い自分だけ",
+        "id": "2015509801846046721",
+        "name": "静藍",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070234149710118912/DWFBQY_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 499,
+          "like_count": 18730,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1343
+        },
+        "url": "",
+        "username": "fffalsum",
+        "verified": false
+      }
+    ]
+  }
+}
