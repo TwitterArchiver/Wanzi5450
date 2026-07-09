@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073399176994697257",
+    "created_at": "2026-07-05T11:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073730514020880753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073730514020880753",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073729499964084600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 抑制剂享受者💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073399176994697257",
+        "created_at": "2026-07-05T11:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073730514020880753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073730514020880753",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073729499964084600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 抑制剂享受者💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2073399176994697257",
+        "created_at": "2026-07-05T11:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073729499964084600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729499964084600",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073399176994697257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 😇😇曲马多明明和地分诺脂一样上不去，不知道为什么那么多人喜欢它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 353,
+          "like_count": 21303,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 4670
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 530,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

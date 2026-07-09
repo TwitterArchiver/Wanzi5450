@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073236195858067456"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073236208986292597",
+    "created_at": "2026-07-04T02:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073236208986292597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yy5hzpLC1o",
+          "end": 64,
+          "expanded_url": "https://x.com/Wanzi5450/status/2073236208986292597/photo/1",
+          "media_key": "3_2073236195858067456",
+          "start": 41,
+          "url": "https://t.co/Yy5hzpLC1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073236208986292597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请大家看看这个刚上w3的小萌新的b50吧🥺希望评价一下可以提升的空间和进步的地方 https://t.co/Yy5hzpLC1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073236195858067456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWdVe2aMAAk82N.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073236195858067456"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073236208986292597",
+        "created_at": "2026-07-04T02:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073236208986292597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy5hzpLC1o",
+              "end": 64,
+              "expanded_url": "https://x.com/Wanzi5450/status/2073236208986292597/photo/1",
+              "media_key": "3_2073236195858067456",
+              "start": 41,
+              "url": "https://t.co/Yy5hzpLC1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073236208986292597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请大家看看这个刚上w3的小萌新的b50吧🥺希望评价一下可以提升的空间和进步的地方 https://t.co/Yy5hzpLC1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 348,
+          "like_count": 21149,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 4634
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

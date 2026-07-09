@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073796834636788178",
+    "created_at": "2026-07-05T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073815141213520341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073815141213520341",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073796834636788178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naonao_927050 本土的更是伟大啊，真的是让人进去就想买点吃的出来"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073796834636788178].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073796834636788178",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073796834636788178"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073796834636788178",
+        "created_at": "2026-07-05T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073815141213520341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073815141213520341",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073796834636788178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naonao_927050 本土的更是伟大啊，真的是让人进去就想买点吃的出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 354,
+          "like_count": 21345,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 4675
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "Computer Architect  | Vandelay  Technologies | Chinese Patient",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "pinned_tweet_id": "2070829714311111066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067320952099147776/gSwVIXpu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1233,
+          "like_count": 77042,
+          "listed_count": 3,
+          "media_count": 1508,
+          "tweet_count": 19055
+        },
+        "url": "",
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

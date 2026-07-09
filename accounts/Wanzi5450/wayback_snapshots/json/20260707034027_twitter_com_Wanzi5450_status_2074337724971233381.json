@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074337717715075072"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2074337724971233381",
+    "created_at": "2026-07-07T03:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074337724971233381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QUtjNFwAWQ",
+          "end": 27,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074337724971233381/photo/1",
+          "media_key": "3_2074337717715075072",
+          "start": 4,
+          "url": "https://t.co/QUtjNFwAWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074337724971233381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舒适啊 https://t.co/QUtjNFwAWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074337717715075072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmHKfiaAAAcvCh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074337717715075072"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074337724971233381",
+        "created_at": "2026-07-07T03:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074337724971233381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUtjNFwAWQ",
+              "end": 27,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074337724971233381/photo/1",
+              "media_key": "3_2074337717715075072",
+              "start": 4,
+              "url": "https://t.co/QUtjNFwAWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337724971233381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舒适啊 https://t.co/QUtjNFwAWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 354,
+          "like_count": 21462,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 4693
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

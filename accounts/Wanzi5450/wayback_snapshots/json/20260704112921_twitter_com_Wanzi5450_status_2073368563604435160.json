@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073291096508277131",
+    "created_at": "2026-07-04T11:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073368563604435160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2057357824968278016",
+          "start": 0,
+          "username": "Neru_sleep0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073368563604435160",
+    "in_reply_to_user_id": "2057357824968278016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073291096508277131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neru_sleep0719 おいしいそう！😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073291082813874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXPQUsbIAABsIy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073291096508277131",
+        "created_at": "2026-07-04T11:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073368563604435160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2057357824968278016",
+              "start": 0,
+              "username": "Neru_sleep0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073368563604435160",
+        "in_reply_to_user_id": "2057357824968278016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073291096508277131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neru_sleep0719 おいしいそう！😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073291082813874176"
+          ]
+        },
+        "author_id": "2057357824968278016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073291096508277131",
+        "created_at": "2026-07-04T06:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073291096508277131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yoTb9rVnF",
+              "end": 46,
+              "expanded_url": "https://x.com/Neru_sleep0719/status/2073291096508277131/photo/1",
+              "media_key": "3_2073291082813874176",
+              "start": 23,
+              "url": "https://t.co/1yoTb9rVnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073291096508277131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "パン屋さんのパンは美味しいのが確定している🫧 https://t.co/1yoTb9rVnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 351,
+          "like_count": 21191,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 4646
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:08:24.000Z",
+        "description": "ユイナー。21歳。iLiFE!もすきです。\n@yuika_singuitar\niLiFE!推しメン!🟧🟦\n@iLiFE_koguma @ILiFE_karen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "yuika_singuitar"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "iLiFE_koguma"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "ILiFE_karen"
+              }
+            ]
+          }
+        },
+        "id": "2057357824968278016",
+        "location": "『ユイカ』ちゃんはQOL向上に必須な人物",
+        "name": "『ねる』🫧",
+        "pinned_tweet_id": "2058211625577132268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058526991486464000/8AG9h-nK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 77,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "Neru_sleep0719",
+        "verified": true
+      }
+    ]
+  }
+}

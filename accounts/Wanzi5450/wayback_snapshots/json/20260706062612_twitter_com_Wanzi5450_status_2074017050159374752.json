@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074017038968979456"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2074017050159374752",
+    "created_at": "2026-07-06T06:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074017050159374752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UasaIGEZOX",
+          "end": 25,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074017050159374752/photo/1",
+          "media_key": "3_2074017038968979456",
+          "start": 2,
+          "url": "https://t.co/UasaIGEZOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074017050159374752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍋 https://t.co/UasaIGEZOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074017038968979456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhjgiHagAAb3x5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074017038968979456"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074017050159374752",
+        "created_at": "2026-07-06T06:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074017050159374752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UasaIGEZOX",
+              "end": 25,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074017050159374752/photo/1",
+              "media_key": "3_2074017038968979456",
+              "start": 2,
+              "url": "https://t.co/UasaIGEZOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074017050159374752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍋 https://t.co/UasaIGEZOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 355,
+          "like_count": 21386,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 4682
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073399176994697257",
+    "created_at": "2026-07-05T11:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073730378775531892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041470056832393216",
+          "start": 0,
+          "username": "GongA47339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073730378775531892",
+    "in_reply_to_user_id": "2041470056832393216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073691717501600035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GongA47339 谢谢泥🥺💕💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073399176994697257",
+        "created_at": "2026-07-05T11:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073730378775531892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041470056832393216",
+              "start": 0,
+              "username": "GongA47339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073730378775531892",
+        "in_reply_to_user_id": "2041470056832393216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073691717501600035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongA47339 谢谢泥🥺💕💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041470056832393216",
+        "conversation_id": "2073399176994697257",
+        "created_at": "2026-07-05T08:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073691717501600035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073691717501600035",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073399176994697257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 丸子真的美爆炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 353,
+          "like_count": 21302,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 4669
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T10:56:20.000Z",
+        "description": "叫我an安｜我想我是自由的｜isfp｜喜欢俄罗斯澳大利亚日本新西兰｜Escape from Tarkov｜互fo｜旅游者｜寻找一起旅行者｜如果你喜欢这样的我 既可闲聊=ᗜωᗜ=",
+        "id": "2041470056832393216",
+        "name": "H1anan🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073679752624517121/pqga8e9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "GongA47339",
+        "verified": false
+      }
+    ]
+  }
+}

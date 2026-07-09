@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073256294216331535",
+    "created_at": "2026-07-04T08:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073328802235883791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073328802235883791",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073318601365536832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 手速快点ww连着点两下然后划星星 加油加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073256294216331535",
+        "created_at": "2026-07-04T08:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073328802235883791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073328802235883791",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073318601365536832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 手速快点ww连着点两下然后划星星 加油加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830213377052037120",
+        "conversation_id": "2073256294216331535",
+        "created_at": "2026-07-04T08:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073318601365536832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073318601365536832",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073256294216331535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 internetyamero紫谱尾杀那段一直sukisuki的怎么打呀我一直在那里掉分 好强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2070440290528399440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 350,
+          "like_count": 21173,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4642
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "Amelover…！",
+        "id": "1830213377052037120",
+        "name": "Namida",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057855952981016576/b0bOr7uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 123,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073561655389405648",
+    "created_at": "2026-07-05T02:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073595678576779585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073595678576779585",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073561655389405648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 抱抱😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073561655389405648",
+        "created_at": "2026-07-05T02:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073595678576779585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073595678576779585",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073561655389405648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 抱抱😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2073561655389405648",
+        "created_at": "2026-07-05T00:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073561655389405648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanzi5450/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wanzi5450/status/2073368402522259685",
+              "start": 12,
+              "url": "https://t.co/wWU0PmTRrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073561655389405648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073368402522259685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难过…我只会被封号… https://t.co/wWU0PmTRrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 353,
+          "like_count": 21272,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 4666
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT 极端依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…｜ 生物恐懼 ｜\n “纵我心若烙铁炽热，亦难融你千尺寒冰”",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059236262574530560/LDaQFvXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 192,
+          "like_count": 2455,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

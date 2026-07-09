@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073338527027429764",
+    "created_at": "2026-07-04T18:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073468378912858386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073468378912858386",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073442110804791502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073338527027429764",
+        "created_at": "2026-07-04T18:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073468378912858386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073468378912858386",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073442110804791502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454241324830720",
+        "conversation_id": "2073338527027429764",
+        "created_at": "2026-07-04T16:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073442110804791502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073442110804791502",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073338527027429764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 ww，这是Roland的合成器吗？羡慕大桌子😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 353,
+          "like_count": 21227,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 4663
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴\n除常互动的推友以外不会主动回fo，回fo请私信🥺",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015852408648458240/Ho5VfcNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 116,
+          "like_count": 30712,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 14822
+        },
+        "url": "",
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

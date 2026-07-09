@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2073426517573714196",
+    "created_at": "2026-07-04T16:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073447746208735446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812193973001129985",
+          "start": 0,
+          "username": "affect1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073447746208735446",
+    "in_reply_to_user_id": "1812193973001129985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073426517573714196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affect1217 我也打到了这个结局ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2073426013414125568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZJ-UWacAAZnN5.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2073426517573714196",
+        "created_at": "2026-07-04T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073447746208735446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812193973001129985",
+              "start": 0,
+              "username": "affect1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447746208735446",
+        "in_reply_to_user_id": "1812193973001129985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073426517573714196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affect1217 我也打到了这个结局ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073426013414125568"
+          ]
+        },
+        "author_id": "1812193973001129985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073426517573714196",
+        "created_at": "2026-07-04T15:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073426517573714196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhRfVyjHIi",
+              "end": 23,
+              "expanded_url": "https://x.com/affect1217/status/2073426517573714196/photo/1",
+              "media_key": "3_2073426013414125568",
+              "start": 0,
+              "url": "https://t.co/BhRfVyjHIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073426517573714196",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BhRfVyjHIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 353,
+          "like_count": 21221,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 4660
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:35:10.000Z",
+        "description": "08/高三在上学中/isfp/高敏感人格/轻度抑郁/会互fo/发碎碎念",
+        "id": "1812193973001129985",
+        "location": "天堂",
+        "name": "晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012718687308914688/pUJyycg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 427,
+          "like_count": 16234,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "affect1217",
+        "verified": false
+      }
+    ]
+  }
+}
