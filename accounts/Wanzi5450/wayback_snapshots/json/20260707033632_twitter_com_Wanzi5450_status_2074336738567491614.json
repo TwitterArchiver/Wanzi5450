@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2074205406013088219",
+    "created_at": "2026-07-07T03:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074336738567491614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        },
+        {
+          "end": 16,
+          "id": "2054226432860327936",
+          "start": 8,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074336738567491614",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074331466834567583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx @Aic_BKY 这个是真会吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074205406013088219",
+        "created_at": "2026-07-07T03:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074336738567491614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            },
+            {
+              "end": 16,
+              "id": "2054226432860327936",
+              "start": 8,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074336738567491614",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074331466834567583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx @Aic_BKY 这个是真会吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2074205406013088219",
+        "created_at": "2026-07-07T03:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074331466834567583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074331466834567583",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074205406013088219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 麦当劳的薯条，肯德基的蛋挞，汉堡王的皇堡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 354,
+          "like_count": 21462,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 4692
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "04年宅宅，大三休学中，男，坐标厦门，\n目前是w4舞萌痴\n爱玩点gal/音游/魂 \n欢迎找我约勤和互fo",
+        "id": "1225559787414401025",
+        "location": "出勤ing",
+        "name": "Sangu1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 118,
+          "like_count": 19937,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/来这里是为了什么来着/我喜欢聊天",
+        "id": "2054226432860327936",
+        "location": "门167/267纯绿无区别",
+        "name": "AIC",
+        "pinned_tweet_id": "2072866574852141168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 109,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": true
+      }
+    ]
+  }
+}

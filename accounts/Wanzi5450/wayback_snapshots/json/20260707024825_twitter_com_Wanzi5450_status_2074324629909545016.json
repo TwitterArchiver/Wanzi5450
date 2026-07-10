@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1033613997591781376",
+        "3_1033614003103195136"
+      ],
+      "media_source_tweet_id": [
+        "1033614135995510784",
+        "1033614135995510784"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2074324629909545016",
+    "created_at": "2026-07-07T02:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074324629909545016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4gQHNJQzy5",
+          "end": 78,
+          "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+          "media_key": "3_1033613997591781376",
+          "start": 55,
+          "url": "https://t.co/4gQHNJQzy5"
+        },
+        {
+          "display_url": "pic.x.com/4gQHNJQzy5",
+          "end": 78,
+          "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+          "media_key": "3_1033614003103195136",
+          "start": 55,
+          "url": "https://t.co/4gQHNJQzy5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074324629909545016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 589
+    },
+    "referenced_tweets": [
+      {
+        "id": "1033614135995510784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: n-bunaさんより。\n\nスウェーデン南部の古都、ルンドです(n-buna https://t.co/4gQHNJQzy5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_1033613997591781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DlgidFlUYAAGyHj.jpg",
+        "width": 2448
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1033614003103195136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DlgidaHV4AAmkpl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1033613997591781376",
+            "3_1033614003103195136"
+          ],
+          "media_source_tweet_id": [
+            "1033614135995510784",
+            "1033614135995510784"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2074324629909545016",
+        "created_at": "2026-07-07T02:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074324629909545016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gQHNJQzy5",
+              "end": 78,
+              "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+              "media_key": "3_1033613997591781376",
+              "start": 55,
+              "url": "https://t.co/4gQHNJQzy5"
+            },
+            {
+              "display_url": "pic.x.com/4gQHNJQzy5",
+              "end": 78,
+              "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+              "media_key": "3_1033614003103195136",
+              "start": 55,
+              "url": "https://t.co/4gQHNJQzy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074324629909545016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 589
+        },
+        "referenced_tweets": [
+          {
+            "id": "1033614135995510784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: n-bunaさんより。\n\nスウェーデン南部の古都、ルンドです(n-buna https://t.co/4gQHNJQzy5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1033613997591781376",
+            "3_1033614003103195136"
+          ]
+        },
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "Sweden",
+              "id": "855422766392123394",
+              "name": "Sweden"
+            }
+          }
+        ],
+        "conversation_id": "1033614135995510784",
+        "created_at": "2018-08-26T07:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2018-08-26T07:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1033614135995510784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gQHNJQzy5",
+              "end": 61,
+              "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+              "media_key": "3_1033613997591781376",
+              "start": 38,
+              "url": "https://t.co/4gQHNJQzy5"
+            },
+            {
+              "display_url": "pic.x.com/4gQHNJQzy5",
+              "end": 61,
+              "expanded_url": "https://x.com/nbuna_staff/status/1033614135995510784/photo/1",
+              "media_key": "3_1033614003103195136",
+              "start": 38,
+              "url": "https://t.co/4gQHNJQzy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1033614135995510784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 0,
+          "like_count": 5924,
+          "quote_count": 26,
+          "reply_count": 11,
+          "retweet_count": 589
+        },
+        "reply_settings": "everyone",
+        "text": "n-bunaさんより。\n\nスウェーデン南部の古都、ルンドです(n-buna https://t.co/4gQHNJQzy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 354,
+          "like_count": 21460,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 4691
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "pinned_tweet_id": "2066446367485296824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764537,
+          "following_count": 6,
+          "like_count": 1142,
+          "listed_count": 3170,
+          "media_count": 1021,
+          "tweet_count": 5477
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}
