@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2074619797178855456",
+    "created_at": "2026-07-08T01:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074670138725654578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048136656297881600",
+          "start": 0,
+          "username": "Evievmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074670138725654578",
+    "in_reply_to_user_id": "2048136656297881600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074619797178855456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evievmmm 好萌！我喜欢这个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2074619780909129728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqHsu0WYAAHfu_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074619797178855456",
+        "created_at": "2026-07-08T01:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074670138725654578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048136656297881600",
+              "start": 0,
+              "username": "Evievmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074670138725654578",
+        "in_reply_to_user_id": "2048136656297881600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074619797178855456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evievmmm 好萌！我喜欢这个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074619780909129728"
+          ]
+        },
+        "author_id": "2048136656297881600",
+        "conversation_id": "2074619797178855456",
+        "created_at": "2026-07-07T22:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074619797178855456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMO7GHon26",
+              "end": 26,
+              "expanded_url": "https://x.com/Evievmmm/status/2074619797178855456/photo/1",
+              "media_key": "3_2074619780909129728",
+              "start": 3,
+              "url": "https://t.co/UMO7GHon26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074619797178855456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌️ https://t.co/UMO7GHon26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 356,
+          "like_count": 21590,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 4715
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T20:27:52.000Z",
+        "description": "喜欢画画（努力练习中）\n喜欢美食！美食大家都喜欢！\n喜欢音游：\n喵斯快跑/Malody/maimai\nJ'apprends le français…！\n欢迎互fo交流(´-ω-`)（会看成分）\n☆*:.｡. o(≧▽≦)o .｡.:*☆\n我的恋人💗：\n@moran_neko｜@mioyuki_21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "moran_neko"
+              },
+              {
+                "end": 149,
+                "start": 138,
+                "username": "mioyuki_21"
+              }
+            ]
+          }
+        },
+        "id": "2048136656297881600",
+        "location": "(´-ω-`)",
+        "name": "ʚ 𝓔𝓿𝓲𝓮 ɞ ₊ ⋆ 𓈒",
+        "pinned_tweet_id": "2071699759287472463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058450588732411904/TjhgC4w0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 275,
+          "like_count": 7339,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "Evievmmm",
+        "verified": false
+      }
+    ]
+  }
+}

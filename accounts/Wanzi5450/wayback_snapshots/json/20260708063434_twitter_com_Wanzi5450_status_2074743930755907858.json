@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074563044357922816"
+      ],
+      "media_source_tweet_id": [
+        "2074563048279593037"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2074743930755907858",
+    "created_at": "2026-07-08T06:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074743930755907858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041105674005094400",
+          "start": 3,
+          "username": "ririlq9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gqDKtLu7bE",
+          "end": 61,
+          "expanded_url": "https://x.com/ririlq9/status/2074563048279593037/photo/1",
+          "media_key": "3_2074563044357922816",
+          "start": 38,
+          "url": "https://t.co/gqDKtLu7bE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074743930755907858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074563048279593037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririlq9: 今年の夏はこれを食べて夏を乗り越えような👊👊👊👊 https://t.co/gqDKtLu7bE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2074563044357922816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpUGOsbYAA67PG.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074563044357922816"
+          ],
+          "media_source_tweet_id": [
+            "2074563048279593037"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074743930755907858",
+        "created_at": "2026-07-08T06:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074743930755907858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041105674005094400",
+              "start": 3,
+              "username": "ririlq9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqDKtLu7bE",
+              "end": 61,
+              "expanded_url": "https://x.com/ririlq9/status/2074563048279593037/photo/1",
+              "media_key": "3_2074563044357922816",
+              "start": 38,
+              "url": "https://t.co/gqDKtLu7bE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074743930755907858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074563048279593037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririlq9: 今年の夏はこれを食べて夏を乗り越えような👊👊👊👊 https://t.co/gqDKtLu7bE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074563044357922816"
+          ]
+        },
+        "author_id": "2041105674005094400",
+        "conversation_id": "2074563048279593037",
+        "created_at": "2026-07-07T18:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074563048279593037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqDKtLu7bE",
+              "end": 48,
+              "expanded_url": "https://x.com/ririlq9/status/2074563048279593037/photo/1",
+              "media_key": "3_2074563044357922816",
+              "start": 25,
+              "url": "https://t.co/gqDKtLu7bE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074563048279593037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 15700,
+          "like_count": 1895,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "今年の夏はこれを食べて夏を乗り越えような👊👊👊👊 https://t.co/gqDKtLu7bE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 356,
+          "like_count": 21607,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 4715
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:48:48.000Z",
+        "description": "￤07￤♀︎￤義務教育済￤躁鬱￤日常￤病み￤ニディガ￤ペアヘッダーしてる親友🩷🖤❥⋯▶︎ @clari_o0 ￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "clari_o0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aak8j9mbsq59n9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aak8j9mbsq59n9x?t=P0LejS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8tYQm1240N"
+              }
+            ]
+          }
+        },
+        "id": "2041105674005094400",
+        "location": "インターネットという海の中で私を見つけてくれてありがとな",
+        "name": "𝒶𝓂𝑒 🎀໒꒱♡",
+        "pinned_tweet_id": "2073299583627919500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073326155411881984/Ax55qXhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 173,
+          "like_count": 1579,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/8tYQm1240N",
+        "username": "ririlq9",
+        "verified": false
+      }
+    ]
+  }
+}

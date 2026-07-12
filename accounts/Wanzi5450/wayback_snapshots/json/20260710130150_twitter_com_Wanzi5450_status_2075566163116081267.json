@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2075552076659306541",
+    "created_at": "2026-07-10T13:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075566163116081267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075566163116081267",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075552076659306541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 这文案我笑出来了XXXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075552059945041921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Xmg3awAE8Wnz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2075552076659306541",
+        "created_at": "2026-07-10T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075566163116081267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075566163116081267",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075552076659306541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 这文案我笑出来了XXXD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075552059945041921"
+          ]
+        },
+        "author_id": "1700512333100126208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075552076659306541",
+        "created_at": "2026-07-10T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075552076659306541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VAwzd96TaR",
+              "end": 50,
+              "expanded_url": "https://x.com/5pr1ng6rIdge/status/2075552076659306541/photo/1",
+              "media_key": "3_2075552059945041921",
+              "start": 27,
+              "url": "https://t.co/VAwzd96TaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075552076659306541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想成为扫比啊。。。就是那种很会打扫键的扫人。。（） https://t.co/VAwzd96TaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 356,
+          "like_count": 21910,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 4747
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I Love The World And Everything In It.\n@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssdfz.sh.cn",
+                "end": 23,
+                "expanded_url": "http://ssdfz.sh.cn",
+                "start": 0,
+                "url": "https://t.co/Y9zFSv4FHe"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge🐱❔☂️🏴",
+        "pinned_tweet_id": "2060752247336935725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752173073981440/-UM7ouVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 942,
+          "like_count": 23892,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/Y9zFSv4FHe",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

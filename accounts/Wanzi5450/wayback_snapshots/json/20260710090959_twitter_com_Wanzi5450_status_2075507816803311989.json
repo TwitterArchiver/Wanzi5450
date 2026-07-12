@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2075507816803311989",
+    "created_at": "2026-07-10T09:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075507816803311989"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075507816803311989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近舞萌机厅有个妹妹特别好看特别萌很小只😫😫😫😫然后今天遇到个男生也认识他还是被妹妹带入坑的我好醋啊气的我紧急和妹妹聊天了一会😤😤😤😤😤最终约到了下次一起去玩😍😍😍😍😍那男的下次我再遇到你给我注意点🥰🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2075507816803311989",
+        "created_at": "2026-07-10T09:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075507816803311989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075507816803311989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近舞萌机厅有个妹妹特别好看特别萌很小只😫😫😫😫然后今天遇到个男生也认识他还是被妹妹带入坑的我好醋啊气的我紧急和妹妹聊天了一会😤😤😤😤😤最终约到了下次一起去玩😍😍😍😍😍那男的下次我再遇到你给我注意点🥰🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 356,
+          "like_count": 21876,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 4740
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

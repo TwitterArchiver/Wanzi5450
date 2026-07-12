@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075183495455121408"
+      ],
+      "media_source_tweet_id": [
+        "2075183499301224449"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2075188947047870701",
+    "created_at": "2026-07-09T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075188947047870701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041105674005094400",
+          "start": 3,
+          "username": "ririlq9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MHdPP83RSp",
+          "end": 63,
+          "expanded_url": "https://x.com/ririlq9/status/2075183499301224449/photo/1",
+          "media_key": "3_2075183495455121408",
+          "start": 40,
+          "url": "https://t.co/MHdPP83RSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188947047870701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075183499301224449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririlq9: オタクくんどうせ一人でしょ超てんちゃんと一緒に帰ろ？ https://t.co/MHdPP83RSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2075183495455121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyIZPJbIAA4nYU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075183495455121408"
+          ],
+          "media_source_tweet_id": [
+            "2075183499301224449"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2075188947047870701",
+        "created_at": "2026-07-09T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188947047870701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041105674005094400",
+              "start": 3,
+              "username": "ririlq9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHdPP83RSp",
+              "end": 63,
+              "expanded_url": "https://x.com/ririlq9/status/2075183499301224449/photo/1",
+              "media_key": "3_2075183495455121408",
+              "start": 40,
+              "url": "https://t.co/MHdPP83RSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188947047870701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075183499301224449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririlq9: オタクくんどうせ一人でしょ超てんちゃんと一緒に帰ろ？ https://t.co/MHdPP83RSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075183495455121408"
+          ]
+        },
+        "author_id": "2041105674005094400",
+        "conversation_id": "2075183499301224449",
+        "created_at": "2026-07-09T11:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075183499301224449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHdPP83RSp",
+              "end": 50,
+              "expanded_url": "https://x.com/ririlq9/status/2075183499301224449/photo/1",
+              "media_key": "3_2075183495455121408",
+              "start": 27,
+              "url": "https://t.co/MHdPP83RSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075183499301224449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 204,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "オタクくんどうせ一人でしょ超てんちゃんと一緒に帰ろ？ https://t.co/MHdPP83RSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 356,
+          "like_count": 21784,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 4727
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:48:48.000Z",
+        "description": "￤07￤♀︎￤義務教育済￤躁鬱￤日常￤病み￤ニディガ￤ペアヘッダーしてる親友🩷🖤❥⋯▶︎ @clari_o0 ￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "clari_o0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aak8j9mbsq59n9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aak8j9mbsq59n9x?t=P0LejS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8tYQm1240N"
+              }
+            ]
+          }
+        },
+        "id": "2041105674005094400",
+        "location": "インターネットという海の中で私を見つけてくれてありがとな",
+        "name": "𝒶𝓂𝑒 🎀໒꒱♡",
+        "pinned_tweet_id": "2073299583627919500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073326155411881984/Ax55qXhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 169,
+          "like_count": 1610,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/8tYQm1240N",
+        "username": "ririlq9",
+        "verified": false
+      }
+    ]
+  }
+}
