@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075906514108506112"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2075906522228687196",
+    "created_at": "2026-07-11T11:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075906522228687196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fm7jwdWrnO",
+          "end": 44,
+          "expanded_url": "https://x.com/Wanzi5450/status/2075906522228687196/photo/1",
+          "media_key": "3_2075906514108506112",
+          "start": 21,
+          "url": "https://t.co/Fm7jwdWrnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075906522228687196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点燃最后一支七星\n今天是世界末日就好了。 https://t.co/Fm7jwdWrnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075906514108506112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Z-dhbYAAh2zc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075906514108506112"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2075906522228687196",
+        "created_at": "2026-07-11T11:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075906522228687196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fm7jwdWrnO",
+              "end": 44,
+              "expanded_url": "https://x.com/Wanzi5450/status/2075906522228687196/photo/1",
+              "media_key": "3_2075906514108506112",
+              "start": 21,
+              "url": "https://t.co/Fm7jwdWrnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906522228687196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点燃最后一支七星\n今天是世界末日就好了。 https://t.co/Fm7jwdWrnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 356,
+          "like_count": 21978,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

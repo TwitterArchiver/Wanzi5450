@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075903441680093184",
+        "3_2075903441671745536"
+      ],
+      "media_source_tweet_id": [
+        "2075903446985888208",
+        "2075903446985888208"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2076185506120118346",
+    "created_at": "2026-07-12T06:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076185506120118346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1262011427587411973",
+          "start": 3,
+          "username": "yuika_singuitar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TrpYnDJ2Rx",
+          "end": 68,
+          "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+          "media_key": "3_2075903441680093184",
+          "start": 45,
+          "url": "https://t.co/TrpYnDJ2Rx"
+        },
+        {
+          "display_url": "pic.x.com/TrpYnDJ2Rx",
+          "end": 68,
+          "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+          "media_key": "3_2075903441671745536",
+          "start": 45,
+          "url": "https://t.co/TrpYnDJ2Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076185506120118346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075903446985888208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_singuitar: 親知らず抜いたらここまで人って変われるんだよね https://t.co/TrpYnDJ2Rx"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ライブ中の『ユイカ』。\nギターを持って左側を見つめている。\n髪の毛もメイクもしっかりセットしている。",
+        "height": 1067,
+        "media_key": "3_2075903441680093184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8XLn1aUAAsokQ.jpg",
+        "width": 1333
+      },
+      {
+        "alt_text": "親知らず抜いて次の日の『ユイカ』。\n左側の頬がぷっくり腫れている。\nすっぴんで、勢い余って切ったオン眉の前髪でピースしている。",
+        "height": 2048,
+        "media_key": "3_2075903441671745536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8XLnza8AApRDh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075903441680093184",
+            "3_2075903441671745536"
+          ],
+          "media_source_tweet_id": [
+            "2075903446985888208",
+            "2075903446985888208"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2076185506120118346",
+        "created_at": "2026-07-12T06:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076185506120118346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1262011427587411973",
+              "start": 3,
+              "username": "yuika_singuitar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrpYnDJ2Rx",
+              "end": 68,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+              "media_key": "3_2075903441680093184",
+              "start": 45,
+              "url": "https://t.co/TrpYnDJ2Rx"
+            },
+            {
+              "display_url": "pic.x.com/TrpYnDJ2Rx",
+              "end": 68,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+              "media_key": "3_2075903441671745536",
+              "start": 45,
+              "url": "https://t.co/TrpYnDJ2Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076185506120118346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075903446985888208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_singuitar: 親知らず抜いたらここまで人って変われるんだよね https://t.co/TrpYnDJ2Rx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075903441680093184",
+            "3_2075903441671745536"
+          ]
+        },
+        "author_id": "1262011427587411973",
+        "conversation_id": "2075903446985888208",
+        "created_at": "2026-07-11T11:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075903446985888208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrpYnDJ2Rx",
+              "end": 47,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+              "media_key": "3_2075903441680093184",
+              "start": 24,
+              "url": "https://t.co/TrpYnDJ2Rx"
+            },
+            {
+              "display_url": "pic.x.com/TrpYnDJ2Rx",
+              "end": 47,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2075903446985888208/photo/1",
+              "media_key": "3_2075903441671745536",
+              "start": 24,
+              "url": "https://t.co/TrpYnDJ2Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075903446985888208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 199829,
+          "like_count": 2751,
+          "quote_count": 14,
+          "reply_count": 88,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "親知らず抜いたらここまで人って変われるんだよね https://t.co/TrpYnDJ2Rx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 359,
+          "like_count": 22068,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 4796
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/6/25.27『ユイカ』presents「時計草#2」開催決定！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-tokeis…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-tokeisou2/",
+                "start": 0,
+                "url": "https://t.co/DdqdXBqjeI"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "location": "↓『ユイカ』LIVE「時計草#2」 チケット申込はこちら🎫",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2063639189783253247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76086,
+          "following_count": 117,
+          "like_count": 18512,
+          "listed_count": 141,
+          "media_count": 782,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/DdqdXBqjeI",
+        "username": "yuika_singuitar",
+        "verified": true
+      }
+    ]
+  }
+}
