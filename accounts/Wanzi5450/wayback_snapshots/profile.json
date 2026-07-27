@@ -6,13 +6,6 @@
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 24,
-        "start": 16,
-        "username": "zxndkbb"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg"
 }
