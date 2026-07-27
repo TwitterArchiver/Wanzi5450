@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2079932077576003704",
+    "created_at": "2026-07-22T14:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079933183492321545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079933183492321545",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079932077576003704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 是的🙂‍↕️完美的恋爱观"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2079932077576003704",
+        "created_at": "2026-07-22T14:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079933183492321545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079933183492321545",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079932077576003704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 是的🙂‍↕️完美的恋爱观"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "2079932077576003704",
+        "created_at": "2026-07-22T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079932077576003704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079932077576003704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有一个成年人会被无条件的爱着，连狗和小孩也不存在无条件被爱，世界上唯一无条件的爱是婴儿对母亲的爱，一个人得自私到什么程度才会索求无条件的爱，去寻找这种东西是愚蠢的，永远有条件，只取决于那些条件是什么。两个有边界、有缺陷、会疲惫的人彼此互相挂念就足够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 365,
+          "like_count": 23171,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 4869
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北极最后一只雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63885,
+          "following_count": 932,
+          "like_count": 119347,
+          "listed_count": 153,
+          "media_count": 3802,
+          "tweet_count": 38211
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

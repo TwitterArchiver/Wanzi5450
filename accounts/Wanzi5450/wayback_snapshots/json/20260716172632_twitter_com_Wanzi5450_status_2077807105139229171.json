@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2077767444891042070",
+    "created_at": "2026-07-16T17:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077807105139229171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077807105139229171",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077767444891042070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 会不会太酸了点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2077767444891042070",
+        "created_at": "2026-07-16T17:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077807105139229171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077807105139229171",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077767444891042070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 会不会太酸了点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700512333100126208",
+        "conversation_id": "2077767444891042070",
+        "created_at": "2026-07-16T14:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077767444891042070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5pr1ng6ridge/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/5pr1ng6ridge/status/2077754067506642973",
+              "start": 22,
+              "url": "https://t.co/bImpXpK2TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077767444891042070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077754067506642973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是有钱就可以一天喝四瓶氢溴酸可尔必思了。 https://t.co/bImpXpK2TB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 362,
+          "like_count": 22543,
+          "listed_count": 0,
+          "media_count": 619,
+          "tweet_count": 4839
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I Love The World And Everything In It.\n@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssdfz.sh.cn",
+                "end": 23,
+                "expanded_url": "http://ssdfz.sh.cn",
+                "start": 0,
+                "url": "https://t.co/Y9zFSv4FHe"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge🐱❔☂️🏴",
+        "pinned_tweet_id": "2060752247336935725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752173073981440/-UM7ouVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 946,
+          "like_count": 24196,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/Y9zFSv4FHe",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

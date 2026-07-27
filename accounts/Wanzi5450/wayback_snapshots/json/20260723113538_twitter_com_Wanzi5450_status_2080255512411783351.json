@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080159660703973376"
+      ],
+      "media_source_tweet_id": [
+        "2080159720674115720"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2080255512411783351",
+    "created_at": "2026-07-23T11:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080255512411783351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "273142671",
+          "start": 3,
+          "username": "ShuVeritas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jl6E3ndNyc",
+          "end": 56,
+          "expanded_url": "https://x.com/ShuVeritas/status/2080159720674115720/video/1",
+          "media_key": "13_2080159660703973376",
+          "start": 33,
+          "url": "https://t.co/jl6E3ndNyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080255512411783351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080159720674115720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuVeritas: 迷子でもいい、迷子でも進め!!! https://t.co/jl6E3ndNyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5431,
+        "height": 720,
+        "media_key": "13_2080159660703973376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080159660703973376/img/OkoUBuvzsXGMBT2i.jpg",
+        "public_metrics": {
+          "view_count": 1528
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080159660703973376/vid/avc1/474x270/iF2L4FrISDTRpOFc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080159660703973376/vid/avc1/634x360/fNNDZ7gGDto1Bmq9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080159660703973376/vid/avc1/1268x720/NsNfnlPaQKiFnQSU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080159660703973376/pl/reTLRlmMlp89LE9N.m3u8"
+          }
+        ],
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080159660703973376"
+          ]
+        },
+        "author_id": "273142671",
+        "conversation_id": "2080159720674115720",
+        "created_at": "2026-07-23T05:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080159720674115720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jl6E3ndNyc",
+              "end": 40,
+              "expanded_url": "https://x.com/ShuVeritas/status/2080159720674115720/video/1",
+              "media_key": "13_2080159660703973376",
+              "start": 17,
+              "url": "https://t.co/jl6E3ndNyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080159720674115720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 3839,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "迷子でもいい、迷子でも進め!!! https://t.co/jl6E3ndNyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080159660703973376"
+          ],
+          "media_source_tweet_id": [
+            "2080159720674115720"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2080255512411783351",
+        "created_at": "2026-07-23T11:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080255512411783351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "273142671",
+              "start": 3,
+              "username": "ShuVeritas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jl6E3ndNyc",
+              "end": 56,
+              "expanded_url": "https://x.com/ShuVeritas/status/2080159720674115720/video/1",
+              "media_key": "13_2080159660703973376",
+              "start": 33,
+              "url": "https://t.co/jl6E3ndNyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080255512411783351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080159720674115720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShuVeritas: 迷子でもいい、迷子でも進め!!! https://t.co/jl6E3ndNyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 367,
+          "like_count": 23340,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 4879
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-27T22:42:48.000Z",
+        "description": "🚹/LoveLive/ウマ娘/FGO/マイムジ/学マス. Ansy 🩷💛 I post pictures of plushies. Soyo 💍",
+        "id": "273142671",
+        "location": "Singapore",
+        "name": "Shu | AveMyGo brainrot",
+        "pinned_tweet_id": "1847969623083475318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067892805672960/XTDPPBET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1539,
+          "like_count": 122063,
+          "listed_count": 8,
+          "media_count": 9208,
+          "tweet_count": 51101
+        },
+        "url": "",
+        "username": "ShuVeritas",
+        "verified": false
+      }
+    ]
+  }
+}

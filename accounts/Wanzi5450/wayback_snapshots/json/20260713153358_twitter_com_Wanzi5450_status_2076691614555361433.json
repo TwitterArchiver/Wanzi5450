@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076691601867579392",
+        "3_2076691601808920576"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076691614555361433",
+    "created_at": "2026-07-13T15:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076691614555361433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPfPDlqeq7",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2076691614555361433/photo/1",
+          "media_key": "3_2076691601867579392",
+          "start": 16,
+          "url": "https://t.co/uPfPDlqeq7"
+        },
+        {
+          "display_url": "pic.x.com/uPfPDlqeq7",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2076691614555361433/photo/1",
+          "media_key": "3_2076691601808920576",
+          "start": 16,
+          "url": "https://t.co/uPfPDlqeq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076691614555361433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好的紫12👍🏻👍🏻👍🏻👍🏻 https://t.co/uPfPDlqeq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076691601867579392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHkAlVaoAATKZy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076691601808920576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHkAlHbkAAsH1n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076691601867579392",
+            "3_2076691601808920576"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076691614555361433",
+        "created_at": "2026-07-13T15:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076691614555361433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPfPDlqeq7",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2076691614555361433/photo/1",
+              "media_key": "3_2076691601867579392",
+              "start": 16,
+              "url": "https://t.co/uPfPDlqeq7"
+            },
+            {
+              "display_url": "pic.x.com/uPfPDlqeq7",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2076691614555361433/photo/1",
+              "media_key": "3_2076691601808920576",
+              "start": 16,
+              "url": "https://t.co/uPfPDlqeq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691614555361433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好的紫12👍🏻👍🏻👍🏻👍🏻 https://t.co/uPfPDlqeq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 360,
+          "like_count": 22310,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 4826
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

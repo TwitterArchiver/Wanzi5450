@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078165110325968896"
+      ],
+      "media_source_tweet_id": [
+        "2078165115510169672"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2078329564586230018",
+    "created_at": "2026-07-18T04:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078329564586230018"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 48,
+          "start": 28,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Th1aH8RPRe",
+          "end": 72,
+          "expanded_url": "https://x.com/obsesslvr/status/2078165115510169672/photo/1",
+          "media_key": "3_2078165110325968896",
+          "start": 49,
+          "url": "https://t.co/Th1aH8RPRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078329564586230018",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 814
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078165115510169672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: #NEEDY_pic  \n#NEEDY_GIRL_OVERDOSE https://t.co/Th1aH8RPRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_2078165110325968896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcgKEGXAAA87dE.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078165110325968896"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2078165115510169672",
+        "created_at": "2026-07-17T17:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078165115510169672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 33,
+              "start": 13,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Th1aH8RPRe",
+              "end": 57,
+              "expanded_url": "https://x.com/obsesslvr/status/2078165115510169672/photo/1",
+              "media_key": "3_2078165110325968896",
+              "start": 34,
+              "url": "https://t.co/Th1aH8RPRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078165115510169672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 826,
+          "impression_count": 43569,
+          "like_count": 7991,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 814
+        },
+        "reply_settings": "following",
+        "text": "#NEEDY_pic  \n#NEEDY_GIRL_OVERDOSE https://t.co/Th1aH8RPRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078165110325968896"
+          ],
+          "media_source_tweet_id": [
+            "2078165115510169672"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2078329564586230018",
+        "created_at": "2026-07-18T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078329564586230018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 48,
+              "start": 28,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Th1aH8RPRe",
+              "end": 72,
+              "expanded_url": "https://x.com/obsesslvr/status/2078165115510169672/photo/1",
+              "media_key": "3_2078165110325968896",
+              "start": 49,
+              "url": "https://t.co/Th1aH8RPRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078329564586230018",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 814
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078165115510169672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: #NEEDY_pic  \n#NEEDY_GIRL_OVERDOSE https://t.co/Th1aH8RPRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 360,
+          "like_count": 22603,
+          "listed_count": 0,
+          "media_count": 619,
+          "tweet_count": 4840
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077893443095764992/zW86PvTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 5,
+          "like_count": 7710,
+          "listed_count": 8,
+          "media_count": 16,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

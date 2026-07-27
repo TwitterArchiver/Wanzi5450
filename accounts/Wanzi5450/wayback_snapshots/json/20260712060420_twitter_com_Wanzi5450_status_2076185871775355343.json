@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2075917752364359973",
+    "created_at": "2026-07-12T06:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076185871775355343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2057357824968278016",
+          "start": 0,
+          "username": "Neru_sleep0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076185871775355343",
+    "in_reply_to_user_id": "2057357824968278016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075917752364359973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neru_sleep0719 本物のユイカさんすき💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2075917752364359973",
+        "created_at": "2026-07-12T06:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076185871775355343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2057357824968278016",
+              "start": 0,
+              "username": "Neru_sleep0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076185871775355343",
+        "in_reply_to_user_id": "2057357824968278016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075917752364359973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neru_sleep0719 本物のユイカさんすき💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057357824968278016",
+        "conversation_id": "2075917752364359973",
+        "created_at": "2026-07-11T12:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075917752364359973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuika_singuita…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yuika_singuitar/status/2075903446985888208",
+              "start": 17,
+              "url": "https://t.co/of6CcILjaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075917752364359973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4943,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075903446985888208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "すっぴんなのがポイント高い︎💕︎ https://t.co/of6CcILjaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 359,
+          "like_count": 22068,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 4797
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:08:24.000Z",
+        "description": "ユイナー。21歳。iLiFE!もすきです。\n食べるの好き。\n@yuika_singuitar\niLiFE!推しメン!🟧🟦\n@iLiFE_koguma @ILiFE_karen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "yuika_singuitar"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "iLiFE_koguma"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "ILiFE_karen"
+              }
+            ]
+          }
+        },
+        "id": "2057357824968278016",
+        "location": "『ユイカ』ちゃんはQOL向上に必須な人物",
+        "name": "『ねる』🫧",
+        "pinned_tweet_id": "2058211625577132268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058526991486464000/8AG9h-nK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 83,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "Neru_sleep0719",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2079951970044150126",
+    "created_at": "2026-07-23T04:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080143398795952546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910975065916858368",
+          "start": 0,
+          "username": "misumi_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080143398795952546",
+    "in_reply_to_user_id": "1910975065916858368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079951970044150126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumi_suki わかる..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2079951970044150126",
+        "created_at": "2026-07-23T04:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080143398795952546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910975065916858368",
+              "start": 0,
+              "username": "misumi_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080143398795952546",
+        "in_reply_to_user_id": "1910975065916858368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079951970044150126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumi_suki わかる..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910975065916858368",
+        "conversation_id": "2079951970044150126",
+        "created_at": "2026-07-22T15:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079951970044150126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079951970044150126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2614,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "高松燈ちゃんの考え方がすごくすごくすきで……\n不器用ではあるし常識離れしてるところもあるけど、それでも捻くれたりもせず、人のいいところに目を向けようとする、やさしい燈ちゃんのことが大好き…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 366,
+          "like_count": 23269,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 4874
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:35:51.000Z",
+        "description": "初音ちゃんとともりんがすき はつさきともあのforever…（相手固定）闇なイラスト置き場→@tomoano_suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "tomoano_suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "start": 0,
+                "url": "https://t.co/6rA6T7aSYr"
+              }
+            ]
+          }
+        },
+        "id": "1910975065916858368",
+        "location": "出典記載前提での転載・翻訳◎",
+        "name": "すーどり@日曜日東3ホ49a",
+        "pinned_tweet_id": "2062866533035245796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916436456110997504/46nYHAEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13424,
+          "following_count": 67,
+          "like_count": 8046,
+          "listed_count": 65,
+          "media_count": 462,
+          "tweet_count": 6135
+        },
+        "url": "https://t.co/6rA6T7aSYr",
+        "username": "misumi_suki",
+        "verified": false
+      }
+    ]
+  }
+}

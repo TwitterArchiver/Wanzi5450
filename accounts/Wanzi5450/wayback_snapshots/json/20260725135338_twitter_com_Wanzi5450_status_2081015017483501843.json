@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2081010565833802091",
+    "created_at": "2026-07-25T13:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081015017483501843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "906063904790286336",
+          "start": 0,
+          "username": "ysk__sub_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081015017483501843",
+    "in_reply_to_user_id": "906063904790286336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081010565833802091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysk__sub_ たべたいwww\n夜にこれを投稿するのはさすがにキツすぎる"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081010565833802091].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081010565833802091",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081010565833802091"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2081010565833802091",
+        "created_at": "2026-07-25T13:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081015017483501843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "906063904790286336",
+              "start": 0,
+              "username": "ysk__sub_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081015017483501843",
+        "in_reply_to_user_id": "906063904790286336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081010565833802091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysk__sub_ たべたいwww\n夜にこれを投稿するのはさすがにキツすぎる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 367,
+          "like_count": 23581,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 4887
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T07:57:23.000Z",
+        "description": "@yottan20001202のサブ垢です。割と本音喋る。やってきたゲーム maimai／ぷよぷよ／太鼓／CHUNITHM／https://t.co/c8vFZ2ayuq／グルコス／にゃんこ大戦争／プロセカ／jubeat サークル→キング運営",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "yottan20001202"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Agar.io",
+                "end": 85,
+                "expanded_url": "http://Agar.io",
+                "start": 62,
+                "url": "https://t.co/c8vFZ2ayuq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoshiki_maimai",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoshiki_maimai",
+                "start": 0,
+                "url": "https://t.co/ARWVPgsPeR"
+              }
+            ]
+          }
+        },
+        "id": "906063904790286336",
+        "name": "よしき(サブ垢)",
+        "pinned_tweet_id": "1744623481474728098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769755142143016960/x1UzOK_u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8979,
+          "following_count": 8125,
+          "like_count": 3773,
+          "listed_count": 13,
+          "media_count": 1743,
+          "tweet_count": 10252
+        },
+        "url": "https://t.co/ARWVPgsPeR",
+        "username": "ysk__sub_",
+        "verified": false
+      }
+    ]
+  }
+}

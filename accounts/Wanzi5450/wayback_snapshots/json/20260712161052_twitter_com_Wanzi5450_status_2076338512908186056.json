@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2076336826088853576",
+    "created_at": "2026-07-12T16:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076338512908186056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076338512908186056",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076336826088853576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 非常萌啊!!!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076336722338574336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNChP4EW8AANcgQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1494,
+        "media_key": "3_2076336722216988672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNChP3nXsAAlmFk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2076336826088853576",
+        "created_at": "2026-07-12T16:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076338512908186056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076338512908186056",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076336826088853576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 非常萌啊!!!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076336722338574336",
+            "3_2076336722216988672"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "conversation_id": "2076336826088853576",
+        "created_at": "2026-07-12T16:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076336826088853576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34dTjJxPby",
+              "end": 35,
+              "expanded_url": "https://x.com/jiu_yokki/status/2076336826088853576/photo/1",
+              "media_key": "3_2076336722338574336",
+              "start": 12,
+              "url": "https://t.co/34dTjJxPby"
+            },
+            {
+              "display_url": "pic.x.com/34dTjJxPby",
+              "end": 35,
+              "expanded_url": "https://x.com/jiu_yokki/status/2076336826088853576/photo/1",
+              "media_key": "3_2076336722216988672",
+              "start": 12,
+              "url": "https://t.co/34dTjJxPby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076336826088853576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耗尽三小时做了坨狗屎😊 https://t.co/34dTjJxPby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 360,
+          "like_count": 22240,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 4812
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "Amelover…！",
+        "id": "1830213377052037120",
+        "name": "Namida",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057855952981016576/b0bOr7uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 125,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false
+      }
+    ]
+  }
+}

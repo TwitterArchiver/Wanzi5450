@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958182246273417216"
+      ],
+      "media_source_tweet_id": [
+        "1958182252195782795"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2076169348730007792",
+    "created_at": "2026-07-12T04:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076169348730007792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1553272247674359808",
+          "start": 3,
+          "username": "Kanade_3344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8yfFKBuklv",
+          "end": 52,
+          "expanded_url": "https://x.com/Kanade_3344/status/1958182252195782795/photo/1",
+          "media_key": "3_1958182246273417216",
+          "start": 29,
+          "url": "https://t.co/8yfFKBuklv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076169348730007792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1996
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958182252195782795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanade_3344: #bandoriart https://t.co/8yfFKBuklv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958182246273417216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzcYMqagAA9KMn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958182246273417216"
+          ],
+          "media_source_tweet_id": [
+            "1958182252195782795"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2076169348730007792",
+        "created_at": "2026-07-12T04:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076169348730007792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1553272247674359808",
+              "start": 3,
+              "username": "Kanade_3344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yfFKBuklv",
+              "end": 52,
+              "expanded_url": "https://x.com/Kanade_3344/status/1958182252195782795/photo/1",
+              "media_key": "3_1958182246273417216",
+              "start": 29,
+              "url": "https://t.co/8yfFKBuklv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076169348730007792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1996
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958182252195782795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanade_3344: #bandoriart https://t.co/8yfFKBuklv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958182246273417216"
+          ]
+        },
+        "author_id": "1553272247674359808",
+        "conversation_id": "1958182252195782795",
+        "created_at": "2025-08-20T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958182252195782795"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yfFKBuklv",
+              "end": 35,
+              "expanded_url": "https://x.com/Kanade_3344/status/1958182252195782795/photo/1",
+              "media_key": "3_1958182246273417216",
+              "start": 12,
+              "url": "https://t.co/8yfFKBuklv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958182252195782795",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 780,
+          "impression_count": 173511,
+          "like_count": 9474,
+          "quote_count": 33,
+          "reply_count": 12,
+          "retweet_count": 1996
+        },
+        "reply_settings": "everyone",
+        "text": "#bandoriart https://t.co/8yfFKBuklv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 358,
+          "like_count": 22041,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 4785
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T06:52:31.000Z",
+        "description": "イラスト垢\n\nラクガキ多め\n\nマシュマロ→https://t.co/nGT4iMQ9iv…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kanade3304?utm",
+                "end": 44,
+                "expanded_url": "http://marshmallow-qa.com/kanade3304?utm",
+                "start": 21,
+                "url": "https://t.co/nGT4iMQ9iv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/88672007",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/88672007",
+                "start": 0,
+                "url": "https://t.co/39b39eBBse"
+              }
+            ]
+          }
+        },
+        "id": "1553272247674359808",
+        "name": "奏",
+        "pinned_tweet_id": "1817174491564573108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850132476209033216/MdINWaqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61672,
+          "following_count": 531,
+          "like_count": 69162,
+          "listed_count": 288,
+          "media_count": 360,
+          "tweet_count": 8939
+        },
+        "url": "https://t.co/39b39eBBse",
+        "username": "Kanade_3344",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2078815104444121135",
+    "created_at": "2026-07-20T09:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079132762586730857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079132762586730857",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079129372041044120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 👅👅👅👅💕💕💕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079129372041044120].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079129372041044120",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079129372041044120"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2078815104444121135",
+        "created_at": "2026-07-20T09:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079132762586730857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079132762586730857",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079129372041044120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 👅👅👅👅💕💕💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 365,
+          "like_count": 22953,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 4857
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "头像来自@shim_46_\n1000%switch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "shim_46_"
+              }
+            ]
+          }
+        },
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "pinned_tweet_id": "2077432531616452687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 331,
+          "like_count": 12695,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 4361
+        },
+        "url": "",
+        "username": "JihaiLin354002",
+        "verified": false
+      }
+    ]
+  }
+}

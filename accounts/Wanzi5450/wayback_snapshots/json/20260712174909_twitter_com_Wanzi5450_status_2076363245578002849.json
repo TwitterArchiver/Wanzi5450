@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2076350201275834739",
+    "created_at": "2026-07-12T17:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076363245578002849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910008101371273225",
+          "start": 0,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076363245578002849",
+    "in_reply_to_user_id": "1910008101371273225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076361395516649548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao152025 那还真）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2076350201275834739",
+        "created_at": "2026-07-12T17:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076363245578002849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076363245578002849",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076361395516649548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 那还真）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2076350201275834739",
+        "created_at": "2026-07-12T17:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076361395516649548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076361395516649548",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076350201275834739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 不能删 不然在淘宝买更贵了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 360,
+          "like_count": 22269,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 4816
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "@haoxiangsiaaaa \n我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨自言自语🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2076278190130217409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6476,
+          "following_count": 210,
+          "like_count": 9364,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

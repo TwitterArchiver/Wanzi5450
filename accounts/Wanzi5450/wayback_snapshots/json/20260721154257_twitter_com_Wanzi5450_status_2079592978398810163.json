@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2079458448102805985",
+    "created_at": "2026-07-21T15:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079592978398810163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959484366578450432",
+          "start": 0,
+          "username": "VCseiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079592978398810163",
+    "in_reply_to_user_id": "1959484366578450432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079565899200086280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VCseiii 医生我有精神痛😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2079458448102805985",
+        "created_at": "2026-07-21T15:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079592978398810163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959484366578450432",
+              "start": 0,
+              "username": "VCseiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079592978398810163",
+        "in_reply_to_user_id": "1959484366578450432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079565899200086280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VCseiii 医生我有精神痛😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959484366578450432",
+        "conversation_id": "2079458448102805985",
+        "created_at": "2026-07-21T13:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079565899200086280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079565899200086280",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079458448102805985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 孩子你是不是想开那个pr80啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 365,
+          "like_count": 23140,
+          "listed_count": 0,
+          "media_count": 623,
+          "tweet_count": 4861
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T05:14:39.000Z",
+        "description": "忘記一個人是面對還是逃避？",
+        "id": "1959484366578450432",
+        "name": "V c",
+        "pinned_tweet_id": "2079197132930564162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184660152696832/Wg1KJaUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "VCseiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2078735372381720635",
+    "created_at": "2026-07-19T15:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078865143430361225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078865143430361225",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078858502395842896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 是的呢。😼💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2078735372381720635",
+        "created_at": "2026-07-19T15:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078865143430361225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078865143430361225",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078858502395842896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 是的呢。😼💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700512333100126208",
+        "conversation_id": "2078735372381720635",
+        "created_at": "2026-07-19T15:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078858502395842896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078858502395842896",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078735372381720635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 我想到春卷饭的音乐有时候也给我这种感觉呢。很完美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 365,
+          "like_count": 22895,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 4854
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I Love The World And Everything In It.\n@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssdfz.sh.cn",
+                "end": 23,
+                "expanded_url": "http://ssdfz.sh.cn",
+                "start": 0,
+                "url": "https://t.co/Y9zFSv4FHe"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge🐱❔☂️🏴",
+        "pinned_tweet_id": "2060752247336935725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752173073981440/-UM7ouVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 949,
+          "like_count": 24297,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/Y9zFSv4FHe",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}
