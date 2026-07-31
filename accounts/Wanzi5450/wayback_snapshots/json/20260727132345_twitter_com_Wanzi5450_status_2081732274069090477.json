@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081711207732723713"
+      ],
+      "media_source_tweet_id": [
+        "2081711214984561141"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2081732274069090477",
+    "created_at": "2026-07-27T13:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081732274069090477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837545874274316288",
+          "start": 3,
+          "username": "KanadeSub_34"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6JaOGWjpMp",
+          "end": 41,
+          "expanded_url": "https://x.com/KanadeSub_34/status/2081711214984561141/photo/1",
+          "media_key": "3_2081711207732723713",
+          "start": 18,
+          "url": "https://t.co/6JaOGWjpMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081732274069090477",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081711214984561141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KanadeSub_34: https://t.co/6JaOGWjpMp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2081711207732723713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO5UGXbwAE3O9I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081711207732723713"
+          ]
+        },
+        "author_id": "1837545874274316288",
+        "conversation_id": "2081711214984561141",
+        "created_at": "2026-07-27T12:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081711214984561141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JaOGWjpMp",
+              "end": 23,
+              "expanded_url": "https://x.com/KanadeSub_34/status/2081711214984561141/photo/1",
+              "media_key": "3_2081711207732723713",
+              "start": 0,
+              "url": "https://t.co/6JaOGWjpMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081711214984561141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 16073,
+          "like_count": 716,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6JaOGWjpMp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081711207732723713"
+          ],
+          "media_source_tweet_id": [
+            "2081711214984561141"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2081732274069090477",
+        "created_at": "2026-07-27T13:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081732274069090477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837545874274316288",
+              "start": 3,
+              "username": "KanadeSub_34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JaOGWjpMp",
+              "end": 41,
+              "expanded_url": "https://x.com/KanadeSub_34/status/2081711214984561141/photo/1",
+              "media_key": "3_2081711207732723713",
+              "start": 18,
+              "url": "https://t.co/6JaOGWjpMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081732274069090477",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081711214984561141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KanadeSub_34: https://t.co/6JaOGWjpMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 367,
+          "like_count": 23885,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 4899
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T17:34:28.000Z",
+        "description": "避難用のサブ垢 @Kanade_3344 ←本垢\nｵﾘ子FAタグ→#c0ver_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 33,
+                "tag": "c0ver_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Kanade_3344"
+              }
+            ]
+          }
+        },
+        "id": "1837545874274316288",
+        "name": "カナハイム社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969749421673119744/B3xiCHSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19345,
+          "following_count": 86,
+          "like_count": 8102,
+          "listed_count": 87,
+          "media_count": 812,
+          "tweet_count": 3613
+        },
+        "url": "",
+        "username": "KanadeSub_34",
+        "verified": false
+      }
+    ]
+  }
+}

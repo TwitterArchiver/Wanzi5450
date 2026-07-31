@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082034205132009472",
+        "3_2082034205098446849",
+        "3_2082034205182275584",
+        "3_2082034205274550272"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082034227131064756",
+    "created_at": "2026-07-28T09:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082034227131064756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDpXTQpWbF",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+          "media_key": "3_2082034205132009472",
+          "start": 16,
+          "url": "https://t.co/hDpXTQpWbF"
+        },
+        {
+          "display_url": "pic.x.com/hDpXTQpWbF",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+          "media_key": "3_2082034205098446849",
+          "start": 16,
+          "url": "https://t.co/hDpXTQpWbF"
+        },
+        {
+          "display_url": "pic.x.com/hDpXTQpWbF",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+          "media_key": "3_2082034205182275584",
+          "start": 16,
+          "url": "https://t.co/hDpXTQpWbF"
+        },
+        {
+          "display_url": "pic.x.com/hDpXTQpWbF",
+          "end": 39,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+          "media_key": "3_2082034205274550272",
+          "start": 16,
+          "url": "https://t.co/hDpXTQpWbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082034227131064756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天爽玩\n玩了日服国际服国服😈 https://t.co/hDpXTQpWbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082034205132009472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTfFBcbMAA76XX.jpg",
+        "width": 1802
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082034205098446849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTfFBUbEAEBHXA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082034205182275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTfFBoaMAAKMdJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082034205274550272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTfFB-aMAAjx6X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082034205132009472",
+            "3_2082034205098446849",
+            "3_2082034205182275584",
+            "3_2082034205274550272"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082034227131064756",
+        "created_at": "2026-07-28T09:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082034227131064756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDpXTQpWbF",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+              "media_key": "3_2082034205132009472",
+              "start": 16,
+              "url": "https://t.co/hDpXTQpWbF"
+            },
+            {
+              "display_url": "pic.x.com/hDpXTQpWbF",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+              "media_key": "3_2082034205098446849",
+              "start": 16,
+              "url": "https://t.co/hDpXTQpWbF"
+            },
+            {
+              "display_url": "pic.x.com/hDpXTQpWbF",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+              "media_key": "3_2082034205182275584",
+              "start": 16,
+              "url": "https://t.co/hDpXTQpWbF"
+            },
+            {
+              "display_url": "pic.x.com/hDpXTQpWbF",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082034227131064756/photo/1",
+              "media_key": "3_2082034205274550272",
+              "start": 16,
+              "url": "https://t.co/hDpXTQpWbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082034227131064756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天爽玩\n玩了日服国际服国服😈 https://t.co/hDpXTQpWbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 365,
+          "like_count": 23971,
+          "listed_count": 0,
+          "media_count": 629,
+          "tweet_count": 4908
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}
