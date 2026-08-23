@@ -1,0 +1,740 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nippon Television (日本テレビ)",
+          "id": "1034887797990027264",
+          "name": "Nippon Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nippon Television (日本テレビ)",
+          "id": "1034887797990027264",
+          "name": "Nippon Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2088612873195098177",
+    "created_at": "2026-08-15T13:04:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088612873195098177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088612873195098177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2918
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088588475708968978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: ヨルシカの新曲「雲を抜け風下へ私だけ」が10月より放送のTVアニメ「薬屋のひとりごと」第3期オープニングテーマに決定しました。\n楽曲の一部が聴けるPVも公開されております。\n是非ご覧ください。\n\nTVアニメ『薬屋のひとりごと』第3期 \n2026…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088588464438845442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwoJIDbIAIYv9Y.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2088612873195098177",
+        "created_at": "2026-08-15T13:04:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088612873195098177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088612873195098177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2918
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088588475708968978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: ヨルシカの新曲「雲を抜け風下へ私だけ」が10月より放送のTVアニメ「薬屋のひとりごと」第3期オープニングテーマに決定しました。\n楽曲の一部が聴けるPVも公開されております。\n是非ご覧ください。\n\nTVアニメ『薬屋のひとりごと』第3期 \n2026…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088588464438845442"
+          ]
+        },
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2088588475708968978",
+        "created_at": "2026-08-15T11:27:51.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088588475708968978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiFBUqEsLn",
+              "end": 183,
+              "expanded_url": "https://x.com/nbuna_staff/status/2088588475708968978/photo/1",
+              "media_key": "3_2088588464438845442",
+              "start": 160,
+              "url": "https://t.co/PiFBUqEsLn"
+            },
+            {
+              "display_url": "x.com/kusuriya_pr/st…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/kusuriya_pr/status/2088587429183947183",
+              "start": 184,
+              "url": "https://t.co/w2sGLHVWes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088588475708968978",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088588464438845442"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 243,
+                "start": 234,
+                "tag": "薬屋のひとりごと"
+              },
+              {
+                "end": 260,
+                "start": 244,
+                "tag": "ヨルシカ_雲を抜け風下へ私だけ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=9rProU…",
+                "end": 232,
+                "expanded_url": "https://www.youtube.com/watch?v=9rProUQlD-I",
+                "start": 209,
+                "url": "https://t.co/3jPl5PDPJE"
+              }
+            ]
+          },
+          "text": "ヨルシカの新曲「雲を抜け風下へ私だけ」が10月より放送のTVアニメ「薬屋のひとりごと」第3期オープニングテーマに決定しました。\n楽曲の一部が聴けるPVも公開されております。\n是非ご覧ください。\n\nTVアニメ『薬屋のひとりごと』第3期 \n2026年10月2日より毎週金曜よる11時\n日本テレビ系「FRIDAY ANIME NIGHT」にて全国同時放送 。\n\n第3期オープニングテーマ：ヨルシカ「雲を抜け風下へ私だけ」\n\nhttps://t.co/3jPl5PDPJE\n\n#薬屋のひとりごと\n#ヨルシカ_雲を抜け風下へ私だけ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 519,
+          "impression_count": 790585,
+          "like_count": 13225,
+          "quote_count": 695,
+          "reply_count": 33,
+          "retweet_count": 2918
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088587429183947183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ヨルシカの新曲「雲を抜け風下へ私だけ」が10月より放送のTVアニメ「薬屋のひとりごと」第3期オープニングテーマに決定しました。\n楽曲の一部が聴けるPVも公開されております。\n是非ご覧ください。\n\nTVアニメ『薬屋のひとりごと』第3期 \n2026年10月2日より毎週金曜よる11時\n日本テレビ系「FRIDAY ANIME https://t.co/PiFBUqEsLn https://t.co/w2sGLHVWes"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088612873195098177",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 372,
+          "like_count": 25969,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 5027
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088588685528932449",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "pinned_tweet_id": "2066446367485296824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/738199700914872320/1764217057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780257,
+          "following_count": 6,
+          "like_count": 1141,
+          "listed_count": 3185,
+          "media_count": 1041,
+          "tweet_count": 5537
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

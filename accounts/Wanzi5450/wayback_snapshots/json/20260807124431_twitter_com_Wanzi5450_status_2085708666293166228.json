@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2085708666293166228",
+    "created_at": "2026-08-07T12:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085708666293166228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2069473971142266880",
+          "start": 3,
+          "username": "LastDiamond2026"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Vo.ANNA：https://x.com/l_diamond_anna?s=20Gt.MEI：https://x.com/meee...",
+          "display_url": "youtu.be/lu5WLeZH4y4?si…",
+          "end": 134,
+          "expanded_url": "https://youtu.be/lu5WLeZH4y4?si=w7pRqR3ETsTm-MvK",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEI",
+          "unwound_url": "https://www.youtube.com/watch?si=w7pRqR3ETsTm-MvK&v=lu5WLeZH4y4&feature=youtu.be",
+          "url": "https://t.co/cy0HMWOqQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085708666293166228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085666373729169468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LastDiamond2026: 「空気読むな！」MUSIC VIDEOのメイキング映像 【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEIがYouTubeにて公開中です！\nhttps://t.co/cy0HMWOqQ7 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13483,
+        "height": 1920,
+        "media_key": "13_2085666256292855808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085666256292855808/img/1AE4sB6PJrUr45l-.jpg",
+        "public_metrics": {
+          "view_count": 1472
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085666256292855808/vid/avc1/480x852/thMIG19LtoGBr0wU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085666256292855808/pl/ptN4ITjHgwOD8z2E.m3u8?v=a8e"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085666256292855808/vid/avc1/720x1280/9_GMqRGEfMoHSqze.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085666256292855808/vid/avc1/320x568/YQ6LtvTK0st6nB0A.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085666256292855808/vid/avc1/1080x1920/J5htCfhOEQCuiLQy.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2085708666293166228",
+        "created_at": "2026-08-07T12:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085708666293166228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2069473971142266880",
+              "start": 3,
+              "username": "LastDiamond2026"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Vo.ANNA：https://x.com/l_diamond_anna?s=20Gt.MEI：https://x.com/meee...",
+              "display_url": "youtu.be/lu5WLeZH4y4?si…",
+              "end": 134,
+              "expanded_url": "https://youtu.be/lu5WLeZH4y4?si=w7pRqR3ETsTm-MvK",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEI",
+              "unwound_url": "https://www.youtube.com/watch?si=w7pRqR3ETsTm-MvK&v=lu5WLeZH4y4&feature=youtu.be",
+              "url": "https://t.co/cy0HMWOqQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085708666293166228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085666373729169468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LastDiamond2026: 「空気読むな！」MUSIC VIDEOのメイキング映像 【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEIがYouTubeにて公開中です！\nhttps://t.co/cy0HMWOqQ7 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085666256292855808"
+          ]
+        },
+        "author_id": "2069473971142266880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2085666373729169468",
+        "created_at": "2026-08-07T09:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085666373729169468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Vo.ANNA：https://x.com/l_diamond_anna?s=20Gt.MEI：https://x.com/meee...",
+              "display_url": "youtu.be/lu5WLeZH4y4?si…",
+              "end": 113,
+              "expanded_url": "https://youtu.be/lu5WLeZH4y4?si=w7pRqR3ETsTm-MvK",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085666051455598592/OHmzPKOb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEI",
+              "unwound_url": "https://www.youtube.com/watch?si=w7pRqR3ETsTm-MvK&v=lu5WLeZH4y4&feature=youtu.be",
+              "url": "https://t.co/cy0HMWOqQ7"
+            },
+            {
+              "display_url": "pic.x.com/bHZDxiid6v",
+              "end": 137,
+              "expanded_url": "https://x.com/LastDiamond2026/status/2085666373729169468/video/1",
+              "media_key": "13_2085666256292855808",
+              "start": 114,
+              "url": "https://t.co/bHZDxiid6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085666373729169468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4432,
+          "like_count": 191,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "「空気読むな！」MUSIC VIDEOのメイキング映像 【Behind the Scenes】終末のダイヤモンド「空気読むな！」feat. MEIがYouTubeにて公開中です！\nhttps://t.co/cy0HMWOqQ7 https://t.co/bHZDxiid6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 371,
+          "like_count": 24921,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 4966
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T17:41:05.000Z",
+        "description": "Vo.ANNA @l_diamond_anna\nGt.MEI @meeeei_Gt\nGt. YURI @lastdiamondyuri\nSupport Ba. PINYO @pinyo_kinyo\nhttps://t.co/VRZgIvcliu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "l_diamond_anna"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "meeeei_Gt"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "lastdiamondyuri"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "pinyo_kinyo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/lastdiamond",
+                "end": 122,
+                "expanded_url": "https://lit.link/lastdiamond",
+                "start": 99,
+                "url": "https://t.co/VRZgIvcliu"
+              }
+            ]
+          }
+        },
+        "id": "2069473971142266880",
+        "name": "終末のダイヤモンド",
+        "pinned_tweet_id": "2074055763241107539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072724304618516480/qCXSL0cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "LastDiamond2026",
+        "verified": true
+      }
+    ]
+  }
+}

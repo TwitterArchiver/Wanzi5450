@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2090729876504629339",
+    "created_at": "2026-08-21T09:44:43.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090736847081386067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090736847081386067",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090736720249504051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 努力!!!!!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2090729876504629339",
+        "created_at": "2026-08-21T09:44:43.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090736847081386067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090736847081386067",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090736720249504051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 努力!!!!!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2090729876504629339",
+        "created_at": "2026-08-21T09:44:12.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090736720249504051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090736720249504051",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090729876504629339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 果然要飞升w4了，接下来是飞升白金框"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090736847081386067",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 370,
+          "like_count": 26108,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 5060
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "爱玩美少女游戏和打音游\n同好可以找我扩列聊天",
+        "id": "1225559787414401025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090736720249504051",
+        "name": "Sangu1s",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225559787414401025/1778063778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 124,
+          "like_count": 20706,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

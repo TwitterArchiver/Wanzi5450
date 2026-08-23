@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082725320122363904",
+        "3_2082725320126545920"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082725329060389084",
+    "created_at": "2026-07-30T07:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082725329060389084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Io5JyHAutb",
+          "end": 68,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082725329060389084/photo/1",
+          "media_key": "3_2082725320122363904",
+          "start": 45,
+          "url": "https://t.co/Io5JyHAutb"
+        },
+        {
+          "display_url": "pic.x.com/Io5JyHAutb",
+          "end": 68,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082725329060389084/photo/1",
+          "media_key": "3_2082725320126545920",
+          "start": 45,
+          "url": "https://t.co/Io5JyHAutb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082725329060389084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个新品芝士鸡排堡还挺好吃的！而且感觉份量也大了一些（？\n还有新上的鸡排也很好吃😋超满足 https://t.co/Io5JyHAutb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082725320122363904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdTpNaa8AAL3kz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082725320126545920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdTpNbawAAi2VH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082725320122363904",
+            "3_2082725320126545920"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082725329060389084",
+        "created_at": "2026-07-30T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082725329060389084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Io5JyHAutb",
+              "end": 68,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082725329060389084/photo/1",
+              "media_key": "3_2082725320122363904",
+              "start": 45,
+              "url": "https://t.co/Io5JyHAutb"
+            },
+            {
+              "display_url": "pic.x.com/Io5JyHAutb",
+              "end": 68,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082725329060389084/photo/1",
+              "media_key": "3_2082725320126545920",
+              "start": 45,
+              "url": "https://t.co/Io5JyHAutb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082725329060389084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个新品芝士鸡排堡还挺好吃的！而且感觉份量也大了一些（？\n还有新上的鸡排也很好吃😋超满足 https://t.co/Io5JyHAutb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 366,
+          "like_count": 24083,
+          "listed_count": 0,
+          "media_count": 633,
+          "tweet_count": 4925
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

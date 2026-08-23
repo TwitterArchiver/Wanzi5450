@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2088613980839571940",
+    "created_at": "2026-08-15T14:32:58.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088635063496040700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088635063496040700",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088613980839571940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 晚上看到好馋😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088613970181763072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw_VwWaMAAHiAE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088613970190163968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw_VwYaYAAV2fN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2088613980839571940",
+        "created_at": "2026-08-15T14:32:58.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088635063496040700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088635063496040700",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088613980839571940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 晚上看到好馋😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088613970181763072",
+            "3_2088613970190163968"
+          ]
+        },
+        "author_id": "2015509801846046721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088613980839571940",
+        "created_at": "2026-08-15T13:09:12.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088613980839571940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0Zp1pi3qV",
+              "end": 39,
+              "expanded_url": "https://x.com/fffalsum/status/2088613980839571940/photo/1",
+              "media_key": "3_2088613970181763072",
+              "start": 16,
+              "url": "https://t.co/j0Zp1pi3qV"
+            },
+            {
+              "display_url": "pic.x.com/j0Zp1pi3qV",
+              "end": 39,
+              "expanded_url": "https://x.com/fffalsum/status/2088613980839571940/photo/1",
+              "media_key": "3_2088613970190163968",
+              "start": 16,
+              "url": "https://t.co/j0Zp1pi3qV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088613980839571940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088613970181763072"
+          },
+          {
+            "media_key": "3_2088613970190163968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崔酱好好吃，这个蒜苔炸鸡有点辣 https://t.co/j0Zp1pi3qV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088635063496040700",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 372,
+          "like_count": 25972,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 5029
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "碎碎念@_tsukiyashiro_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "_tsukiyashiro_"
+              }
+            ]
+          }
+        },
+        "id": "2015509801846046721",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088613980839571940",
+        "name": "静藍",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015509801846046721/1780765169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070234149710118912/DWFBQY_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 503,
+          "like_count": 22456,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "fffalsum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

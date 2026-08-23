@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2085673028797779968",
+    "created_at": "2026-08-07T10:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085673028797779968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505767450385690625",
+          "start": 3,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085673028797779968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085663071746605088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alistai33955292: 明明我已经在好好吃药，明明医生说我的大脑已经恢复到70%了为什么我还是会莫名其妙痛苦想哭我不想要这样了我好想结束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2085673028797779968",
+        "created_at": "2026-08-07T10:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085673028797779968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505767450385690625",
+              "start": 3,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085673028797779968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085663071746605088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alistai33955292: 明明我已经在好好吃药，明明医生说我的大脑已经恢复到70%了为什么我还是会莫名其妙痛苦想哭我不想要这样了我好想结束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2085663071746605088",
+        "created_at": "2026-08-07T09:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085663071746605088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085663071746605088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明明我已经在好好吃药，明明医生说我的大脑已经恢复到70%了为什么我还是会莫名其妙痛苦想哭我不想要这样了我好想结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 371,
+          "like_count": 24912,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 4963
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "餐券丨od丨全性别友好丨只fo同类健人fo我拉黑丨希望爱我的我爱的人永远幸福/终生@youciAishiuu丨雪兔负能见@Tbloodtrip",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "youciAishiuu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Tbloodtrip"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰(电子🚬代版)",
+        "pinned_tweet_id": "2066108367043772842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 692,
+          "like_count": 2546,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3383
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

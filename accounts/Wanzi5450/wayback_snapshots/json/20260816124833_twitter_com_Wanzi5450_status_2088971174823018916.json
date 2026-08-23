@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2088971174823018916",
+    "created_at": "2026-08-16T12:48:33.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088971174823018916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1262011427587411973",
+          "start": 3,
+          "username": "yuika_singuitar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088971174823018916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088966783118319977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_singuitar: 新曲出すたびにラブソングだと思われる、ラブソング以外も書くからね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2088971174823018916",
+        "created_at": "2026-08-16T12:48:33.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088971174823018916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1262011427587411973",
+              "start": 3,
+              "username": "yuika_singuitar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088971174823018916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088966783118319977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_singuitar: 新曲出すたびにラブソングだと思われる、ラブソング以外も書くからね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262011427587411973",
+        "conversation_id": "2088966783118319977",
+        "created_at": "2026-08-16T12:31:06.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088966783118319977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088966783118319977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2892,
+          "like_count": 277,
+          "quote_count": 6,
+          "reply_count": 33,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "新曲出すたびにラブソングだと思われる、ラブソング以外も書くからね"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088971174823018916",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 371,
+          "like_count": 26036,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 5035
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/9/21(月・祝)ワンマンライブ「Sanvitalia」東京国際フォーラムホールAにて開催決定.ᐟ.ᐟ.ᐟ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-sanvit…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-sanvitalia/",
+                "start": 0,
+                "url": "https://t.co/AZxNWuJwtp"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "is_identity_verified": false,
+        "location": "↓9/21 「Sanvitalia」チケット申込はこちら🎫",
+        "most_recent_tweet_id": "2088966783118319977",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2063639189783253247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262011427587411973/1779291270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76163,
+          "following_count": 117,
+          "like_count": 18782,
+          "listed_count": 142,
+          "media_count": 785,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/AZxNWuJwtp",
+        "username": "yuika_singuitar",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

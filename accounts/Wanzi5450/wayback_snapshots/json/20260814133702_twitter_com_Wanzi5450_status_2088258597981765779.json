@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088258572677427200",
+        "3_2088258572660736000",
+        "3_2088258572660654080",
+        "3_2088258573034000384"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088258597981765779",
+    "created_at": "2026-08-14T13:37:02.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088258597981765779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFaOfQrVVE",
+          "end": 44,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+          "media_key": "3_2088258572677427200",
+          "start": 21,
+          "url": "https://t.co/NFaOfQrVVE"
+        },
+        {
+          "display_url": "pic.x.com/NFaOfQrVVE",
+          "end": 44,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+          "media_key": "3_2088258572660736000",
+          "start": 21,
+          "url": "https://t.co/NFaOfQrVVE"
+        },
+        {
+          "display_url": "pic.x.com/NFaOfQrVVE",
+          "end": 44,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+          "media_key": "3_2088258572660654080",
+          "start": 21,
+          "url": "https://t.co/NFaOfQrVVE"
+        },
+        {
+          "display_url": "pic.x.com/NFaOfQrVVE",
+          "end": 44,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+          "media_key": "3_2088258573034000384",
+          "start": 21,
+          "url": "https://t.co/NFaOfQrVVE"
+        },
+        {
+          "display_url": "x.com/haze591200/sta…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/haze591200/status/2088255523355508844",
+          "start": 45,
+          "url": "https://t.co/DNAKR8SX36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088258597981765779",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088258572677427200"
+      },
+      {
+        "media_key": "3_2088258572660736000"
+      },
+      {
+        "media_key": "3_2088258572660654080"
+      },
+      {
+        "media_key": "3_2088258573034000384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088255523355508844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超级开心🥳12太会拍照了人也超级可爱💖💖 https://t.co/NFaOfQrVVE https://t.co/DNAKR8SX36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088258572677427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8G5eaMAAS1l5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088258572660736000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8G5abgAArDds.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088258572660654080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8G5aaQAAs4BO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088258573034000384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8G6zbEAAegL4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088255514249711616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr5U38a0AAzcxU.jpg",
+        "width": 1214
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088255514245578752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr5U37bwAAR13O.jpg",
+        "width": 1214
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088255514245570560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr5U37boAAvVDv.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088255514232946688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr5U34bAAA3A5_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088258572677427200",
+            "3_2088258572660736000",
+            "3_2088258572660654080",
+            "3_2088258573034000384"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088258597981765779",
+        "created_at": "2026-08-14T13:37:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088258597981765779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFaOfQrVVE",
+              "end": 44,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+              "media_key": "3_2088258572677427200",
+              "start": 21,
+              "url": "https://t.co/NFaOfQrVVE"
+            },
+            {
+              "display_url": "pic.x.com/NFaOfQrVVE",
+              "end": 44,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+              "media_key": "3_2088258572660736000",
+              "start": 21,
+              "url": "https://t.co/NFaOfQrVVE"
+            },
+            {
+              "display_url": "pic.x.com/NFaOfQrVVE",
+              "end": 44,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+              "media_key": "3_2088258572660654080",
+              "start": 21,
+              "url": "https://t.co/NFaOfQrVVE"
+            },
+            {
+              "display_url": "pic.x.com/NFaOfQrVVE",
+              "end": 44,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088258597981765779/photo/1",
+              "media_key": "3_2088258573034000384",
+              "start": 21,
+              "url": "https://t.co/NFaOfQrVVE"
+            },
+            {
+              "display_url": "x.com/haze591200/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/haze591200/status/2088255523355508844",
+              "start": 45,
+              "url": "https://t.co/DNAKR8SX36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088258597981765779",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088258572677427200"
+          },
+          {
+            "media_key": "3_2088258572660736000"
+          },
+          {
+            "media_key": "3_2088258572660654080"
+          },
+          {
+            "media_key": "3_2088258573034000384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088255523355508844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级开心🥳12太会拍照了人也超级可爱💖💖 https://t.co/NFaOfQrVVE https://t.co/DNAKR8SX36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088255514249711616",
+            "3_2088255514245578752",
+            "3_2088255514245570560",
+            "3_2088255514232946688"
+          ]
+        },
+        "author_id": "1938246407225532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088255523355508844",
+        "created_at": "2026-08-14T13:24:49.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088255523355508844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738375202168532992",
+              "start": 5,
+              "username": "Wanzi5450"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbWO0SzPdG",
+              "end": 80,
+              "expanded_url": "https://x.com/Haze591200/status/2088255523355508844/photo/1",
+              "media_key": "3_2088255514249711616",
+              "start": 57,
+              "url": "https://t.co/vbWO0SzPdG"
+            },
+            {
+              "display_url": "pic.x.com/vbWO0SzPdG",
+              "end": 80,
+              "expanded_url": "https://x.com/Haze591200/status/2088255523355508844/photo/1",
+              "media_key": "3_2088255514245578752",
+              "start": 57,
+              "url": "https://t.co/vbWO0SzPdG"
+            },
+            {
+              "display_url": "pic.x.com/vbWO0SzPdG",
+              "end": 80,
+              "expanded_url": "https://x.com/Haze591200/status/2088255523355508844/photo/1",
+              "media_key": "3_2088255514245570560",
+              "start": 57,
+              "url": "https://t.co/vbWO0SzPdG"
+            },
+            {
+              "display_url": "pic.x.com/vbWO0SzPdG",
+              "end": 80,
+              "expanded_url": "https://x.com/Haze591200/status/2088255523355508844/photo/1",
+              "media_key": "3_2088255514232946688",
+              "start": 57,
+              "url": "https://t.co/vbWO0SzPdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088255523355508844",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088255514249711616"
+          },
+          {
+            "media_key": "3_2088255514245578752"
+          },
+          {
+            "media_key": "3_2088255514245570560"
+          },
+          {
+            "media_key": "3_2088255514232946688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "with @Wanzi5450 在上海的一天🥰\n很喜欢这座奇迹之城 在这里收获了很多很多 好想特么在这挂壁一辈子 https://t.co/vbWO0SzPdG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088258597981765779",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 371,
+          "like_count": 25789,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 5018
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "demisexual｜enby｜生理🚺｜不会约任何｜友同友跨｜和我说话前请先把我当成一个生活里遇到的普通人类。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/OBOUCF2wSH"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082435271417798679",
+        "name": "Hazel",
+        "pinned_tweet_id": "2075532905737253266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938246407225532416/1751195214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 436,
+          "like_count": 12319,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 7698
+        },
+        "url": "https://t.co/OBOUCF2wSH",
+        "username": "Haze591200",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

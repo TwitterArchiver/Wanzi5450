@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088651891756728320",
+        "3_2088651891781857280",
+        "3_2088651891769290752",
+        "3_2088651891869888512"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088651903374897157",
+    "created_at": "2026-08-15T15:39:53.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088651903374897157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEHnuQ2Zcw",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+          "media_key": "3_2088651891756728320",
+          "start": 12,
+          "url": "https://t.co/tEHnuQ2Zcw"
+        },
+        {
+          "display_url": "pic.x.com/tEHnuQ2Zcw",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+          "media_key": "3_2088651891781857280",
+          "start": 12,
+          "url": "https://t.co/tEHnuQ2Zcw"
+        },
+        {
+          "display_url": "pic.x.com/tEHnuQ2Zcw",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+          "media_key": "3_2088651891769290752",
+          "start": 12,
+          "url": "https://t.co/tEHnuQ2Zcw"
+        },
+        {
+          "display_url": "pic.x.com/tEHnuQ2Zcw",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+          "media_key": "3_2088651891869888512",
+          "start": 12,
+          "url": "https://t.co/tEHnuQ2Zcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088651903374897157",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088651891756728320"
+      },
+      {
+        "media_key": "3_2088651891781857280"
+      },
+      {
+        "media_key": "3_2088651891769290752"
+      },
+      {
+        "media_key": "3_2088651891869888512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神作。\ndeemo好玩 https://t.co/tEHnuQ2Zcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2088651891756728320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxh1FObgAAjOwE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088651891781857280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxh1FUa8AARhdk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088651891769290752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxh1FRbMAAD81q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088651891869888512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxh1FpaMAAyMg8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088651891756728320",
+            "3_2088651891781857280",
+            "3_2088651891769290752",
+            "3_2088651891869888512"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088651903374897157",
+        "created_at": "2026-08-15T15:39:53.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088651903374897157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEHnuQ2Zcw",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+              "media_key": "3_2088651891756728320",
+              "start": 12,
+              "url": "https://t.co/tEHnuQ2Zcw"
+            },
+            {
+              "display_url": "pic.x.com/tEHnuQ2Zcw",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+              "media_key": "3_2088651891781857280",
+              "start": 12,
+              "url": "https://t.co/tEHnuQ2Zcw"
+            },
+            {
+              "display_url": "pic.x.com/tEHnuQ2Zcw",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+              "media_key": "3_2088651891769290752",
+              "start": 12,
+              "url": "https://t.co/tEHnuQ2Zcw"
+            },
+            {
+              "display_url": "pic.x.com/tEHnuQ2Zcw",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2088651903374897157/photo/1",
+              "media_key": "3_2088651891869888512",
+              "start": 12,
+              "url": "https://t.co/tEHnuQ2Zcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088651903374897157",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088651891756728320"
+          },
+          {
+            "media_key": "3_2088651891781857280"
+          },
+          {
+            "media_key": "3_2088651891769290752"
+          },
+          {
+            "media_key": "3_2088651891869888512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神作。\ndeemo好玩 https://t.co/tEHnuQ2Zcw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088651903374897157",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 372,
+          "like_count": 25992,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 5030
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

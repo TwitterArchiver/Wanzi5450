@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2085728883312382009",
+    "created_at": "2026-08-07T14:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085728883312382009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1262011427587411973",
+          "start": 3,
+          "username": "yuika_singuitar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085728883312382009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085697786545418453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_singuitar: 【お知らせ📢】\n\n8/21(金)0:00〜 EP「翠色に贈る」配信決定しました.ᐟ.ᐟ.ᐟ🎉㊗️\n\n1年前に構想を練り始めてようやくリリースできます、\nこのEPで最後のリリース曲になってもいいくらいの気持ちで書きました。\n私の全部が詰ま…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "EP「翠色に贈る」のジャケ写。\n\n白い背景に写真が3×3で並んでいて、木漏れ日や木々、草花、ギター、『ユイカ』の横顔や手元などが淡い緑を基調に写されている。左下に「翠色に贈る」、右下に『ユイカ』の文字が入っている。",
+        "height": 2048,
+        "media_key": "3_2085697778932719616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHjFFYbIAAvTsh.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "『ユイカ』のコメントが書かれた画像。\n「このEPは、私がやりたいことだけを詰め込んだ5曲になっています。\n初心に帰ったような、こうして音楽活動をする前に自分がやりたかったことをこのEPで叶えたいと思って書きました。\n今まで作っていなかった新しいジャンルの曲から、今の『ユイカ』らしいラブソングまで様々ですが、テーマの1つとして「ひねくれ」があります。\n全ての曲に私の性格が存分に発揮している気がします。\nぜひ沢山聴いてくださると嬉しいです！」\nと書いている。",
+        "height": 2048,
+        "media_key": "3_2085697778932740096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHjFFYbcAAhYnw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2085728883312382009",
+        "created_at": "2026-08-07T14:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085728883312382009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1262011427587411973",
+              "start": 3,
+              "username": "yuika_singuitar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085728883312382009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085697786545418453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_singuitar: 【お知らせ📢】\n\n8/21(金)0:00〜 EP「翠色に贈る」配信決定しました.ᐟ.ᐟ.ᐟ🎉㊗️\n\n1年前に構想を練り始めてようやくリリースできます、\nこのEPで最後のリリース曲になってもいいくらいの気持ちで書きました。\n私の全部が詰ま…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085697778932719616",
+            "3_2085697778932740096"
+          ]
+        },
+        "author_id": "1262011427587411973",
+        "conversation_id": "2085697786545418453",
+        "created_at": "2026-08-07T12:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085697786545418453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gr2RkXwHZi",
+              "end": 175,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2085697786545418453/photo/1",
+              "media_key": "3_2085697778932719616",
+              "start": 152,
+              "url": "https://t.co/gr2RkXwHZi"
+            },
+            {
+              "display_url": "pic.x.com/gr2RkXwHZi",
+              "end": 175,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2085697786545418453/photo/1",
+              "media_key": "3_2085697778932740096",
+              "start": 152,
+              "url": "https://t.co/gr2RkXwHZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085697786545418453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "yuika.lnk.to/suishokuTP",
+                "end": 233,
+                "expanded_url": "https://yuika.lnk.to/suishokuTP",
+                "start": 210,
+                "url": "https://t.co/rznFWK0XW0"
+              }
+            ]
+          },
+          "text": "【お知らせ📢】\n\n8/21(金)0:00〜 EP「翠色に贈る」配信決定しました.ᐟ.ᐟ.ᐟ🎉㊗️\n\n1年前に構想を練り始めてようやくリリースできます、\nこのEPで最後のリリース曲になってもいいくらいの気持ちで書きました。\n私の全部が詰まってます、ぜひお楽しみに❕🪽\n\n＜収録曲＞\n1. 翠色に贈る\n2. ぜーんぶまちがえてね！\n3. 残酷になりますように\n4. 私のまま\n5. 生きましょうね\n\n▼配信リンクはこちら🎧\nhttps://t.co/rznFWK0XW0\n※Pre-add/Pre-save受付中"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9616,
+          "like_count": 424,
+          "quote_count": 33,
+          "reply_count": 31,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ📢】\n\n8/21(金)0:00〜 EP「翠色に贈る」配信決定しました.ᐟ.ᐟ.ᐟ🎉㊗️\n\n1年前に構想を練り始めてようやくリリースできます、\nこのEPで最後のリリース曲になってもいいくらいの気持ちで書きました。\n私の全部が詰まってます、ぜひお楽しみに❕🪽\n\n＜収録曲＞\n1. 翠色に贈る\n2. https://t.co/gr2RkXwHZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 371,
+          "like_count": 24932,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 4967
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/9/21(月・祝)ワンマンライブ「Sanvitalia」東京国際フォーラムホールAにて開催決定.ᐟ.ᐟ.ᐟ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-sanvit…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-sanvitalia/",
+                "start": 0,
+                "url": "https://t.co/AZxNWuJwtp"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "location": "↓9/21 「Sanvitalia」チケット申込はこちら🎫",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2063639189783253247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76119,
+          "following_count": 117,
+          "like_count": 18667,
+          "listed_count": 142,
+          "media_count": 784,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/AZxNWuJwtp",
+        "username": "yuika_singuitar",
+        "verified": true
+      }
+    ]
+  }
+}

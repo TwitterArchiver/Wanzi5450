@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082765088164085760",
+        "3_2082765088151453696",
+        "3_2082765088159920128",
+        "3_2082765088193400832"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082765134351802507",
+    "created_at": "2026-07-30T09:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082765134351802507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tBcN0mSKIL",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+          "media_key": "3_2082765088164085760",
+          "start": 6,
+          "url": "https://t.co/tBcN0mSKIL"
+        },
+        {
+          "display_url": "pic.x.com/tBcN0mSKIL",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+          "media_key": "3_2082765088151453696",
+          "start": 6,
+          "url": "https://t.co/tBcN0mSKIL"
+        },
+        {
+          "display_url": "pic.x.com/tBcN0mSKIL",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+          "media_key": "3_2082765088159920128",
+          "start": 6,
+          "url": "https://t.co/tBcN0mSKIL"
+        },
+        {
+          "display_url": "pic.x.com/tBcN0mSKIL",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+          "media_key": "3_2082765088193400832",
+          "start": 6,
+          "url": "https://t.co/tBcN0mSKIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082765134351802507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收收收收收 https://t.co/tBcN0mSKIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082765088164085760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd30A6bAAAwQAk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082765088151453696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd30A3aQAABwLm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082765088159920128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd30A5bcAAT2HG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082765088193400832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd30BBaUAALRSS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082765088164085760",
+            "3_2082765088151453696",
+            "3_2082765088159920128",
+            "3_2082765088193400832"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082765134351802507",
+        "created_at": "2026-07-30T09:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082765134351802507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBcN0mSKIL",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+              "media_key": "3_2082765088164085760",
+              "start": 6,
+              "url": "https://t.co/tBcN0mSKIL"
+            },
+            {
+              "display_url": "pic.x.com/tBcN0mSKIL",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+              "media_key": "3_2082765088151453696",
+              "start": 6,
+              "url": "https://t.co/tBcN0mSKIL"
+            },
+            {
+              "display_url": "pic.x.com/tBcN0mSKIL",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+              "media_key": "3_2082765088159920128",
+              "start": 6,
+              "url": "https://t.co/tBcN0mSKIL"
+            },
+            {
+              "display_url": "pic.x.com/tBcN0mSKIL",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2082765134351802507/photo/1",
+              "media_key": "3_2082765088193400832",
+              "start": 6,
+              "url": "https://t.co/tBcN0mSKIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765134351802507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收收收收收 https://t.co/tBcN0mSKIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 366,
+          "like_count": 24103,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4930
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

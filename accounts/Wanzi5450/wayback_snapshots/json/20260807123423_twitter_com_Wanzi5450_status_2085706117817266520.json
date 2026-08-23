@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2085697749597741233",
+    "created_at": "2026-08-07T12:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085706117817266520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085706117817266520",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085704311863128472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 吃的肚皮圆滚滚🐧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2085697749597741233",
+        "created_at": "2026-08-07T12:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085706117817266520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085706117817266520",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085704311863128472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 吃的肚皮圆滚滚🐧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "2085697749597741233",
+        "created_at": "2026-08-07T12:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085704311863128472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085704311863128472",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085697749597741233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 好爽呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 371,
+          "like_count": 24912,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 4965
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北极最后一只雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63782,
+          "following_count": 946,
+          "like_count": 120515,
+          "listed_count": 153,
+          "media_count": 3825,
+          "tweet_count": 38574
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2090493009343467710",
+    "created_at": "2026-08-21T10:14:46.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090744412691484827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090744412691484827",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090493009343467710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 摸摸北北😭辛苦了💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2033,
+        "media_key": "3_2090492994013233152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLsTVmaAAA6EtG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2135,
+        "media_key": "3_2090492993778466816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLsTUubwAAPmax.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2090493009343467710",
+        "created_at": "2026-08-21T10:14:46.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090744412691484827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090744412691484827",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090493009343467710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 摸摸北北😭辛苦了💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090492994013233152",
+            "3_2090492993778466816"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "2090493009343467710",
+        "created_at": "2026-08-20T17:35:47.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090493009343467710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4LUPi2e1W",
+              "end": 57,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2090493009343467710/photo/1",
+              "media_key": "3_2090492994013233152",
+              "start": 34,
+              "url": "https://t.co/I4LUPi2e1W"
+            },
+            {
+              "display_url": "pic.x.com/I4LUPi2e1W",
+              "end": 57,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2090493009343467710/photo/1",
+              "media_key": "3_2090492993778466816",
+              "start": 34,
+              "url": "https://t.co/I4LUPi2e1W"
+            },
+            {
+              "display_url": "x.com/yourmaodie/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/yourmaodie/status/2090488888435606014",
+              "start": 58,
+              "url": "https://t.co/WJ3frsbTxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090493009343467710",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090492994013233152"
+          },
+          {
+            "media_key": "3_2090492993778466816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3656,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090488888435606014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别说了这是主包昨天从楼梯上摔下来之后肾上腺素发力的最后一舞。。。。 https://t.co/I4LUPi2e1W https://t.co/WJ3frsbTxV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090744412691484827",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 370,
+          "like_count": 26121,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 5061
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090721144420925820",
+        "name": "北极最后一只雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346974977434771460/1716796289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63804,
+          "following_count": 951,
+          "like_count": 121135,
+          "listed_count": 152,
+          "media_count": 3845,
+          "tweet_count": 38791
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

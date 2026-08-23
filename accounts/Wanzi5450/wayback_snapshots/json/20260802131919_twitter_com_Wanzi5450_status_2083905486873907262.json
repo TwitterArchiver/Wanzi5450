@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2083905486873907262",
+    "created_at": "2026-08-02T13:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083905486873907262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507761075089211397",
+          "start": 3,
+          "username": "meeeei_Gt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083905486873907262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083740661598355609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meeeei_Gt: 家族に見守られながら、めいを無事に送り出すことができました。\n\nお気持ちを寄せてくださった皆様、本当にありがとうございました。\n\n皆様からいただいた温かい想いに触れ、めいは本当に多くの方に愛され、とても幸せな人生を歩むことができたのだと改めて感じて…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083740654447034369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrvFchbAAEri__.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2083905486873907262",
+        "created_at": "2026-08-02T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083905486873907262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507761075089211397",
+              "start": 3,
+              "username": "meeeei_Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083905486873907262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083740661598355609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meeeei_Gt: 家族に見守られながら、めいを無事に送り出すことができました。\n\nお気持ちを寄せてくださった皆様、本当にありがとうございました。\n\n皆様からいただいた温かい想いに触れ、めいは本当に多くの方に愛され、とても幸せな人生を歩むことができたのだと改めて感じて…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083740654447034369"
+          ]
+        },
+        "author_id": "1507761075089211397",
+        "conversation_id": "2083740661598355609",
+        "created_at": "2026-08-02T02:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083740661598355609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BMvI3liAs",
+              "end": 152,
+              "expanded_url": "https://x.com/meeeei_Gt/status/2083740661598355609/photo/1",
+              "media_key": "3_2083740654447034369",
+              "start": 129,
+              "url": "https://t.co/1BMvI3liAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083740661598355609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "家族に見守られながら、めいを無事に送り出すことができました。\n\nお気持ちを寄せてくださった皆様、本当にありがとうございました。\n\n皆様からいただいた温かい想いに触れ、めいは本当に多くの方に愛され、とても幸せな人生を歩むことができたのだと改めて感じています。\n\nまだ現実を受け止めきれず、寂しさは消えませんが、皆様からいただいた優しさを支えに、少しずつ前を向いて歩んでいきたいと思います。\n\n生前、猫月めいを愛し、応援してくださったすべての皆様に、家族として心より感謝申し上げます。\n\nこれからも、どうかめいのことを心のどこかで思い出していただけたら幸いです。\n\n本当にありがとうございました。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 1099384,
+          "like_count": 8922,
+          "quote_count": 43,
+          "reply_count": 228,
+          "retweet_count": 1210
+        },
+        "reply_settings": "everyone",
+        "text": "家族に見守られながら、めいを無事に送り出すことができました。\n\nお気持ちを寄せてくださった皆様、本当にありがとうございました。\n\n皆様からいただいた温かい想いに触れ、めいは本当に多くの方に愛され、とても幸せな人生を歩むことができたのだと改めて感じています。 https://t.co/1BMvI3liAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 366,
+          "like_count": 24416,
+          "listed_count": 0,
+          "media_count": 638,
+          "tweet_count": 4948
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T16:47:16.000Z",
+        "description": "Guitarist🎸￤元薬剤師💊 ￤#めいちゅーる💚🐾\nBand▶︎終末のダイヤモンド @LastDiamond2026\nworks▶︎BanG Dream!, 艦これ1MYB等 \ncontact▶︎✉️nyaon.9ma@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "めいちゅーる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "LastDiamond2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekozukimei",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekozukimei",
+                "start": 0,
+                "url": "https://t.co/OVr9sqGR0G"
+              }
+            ]
+          }
+        },
+        "id": "1507761075089211397",
+        "name": "猫月めい",
+        "pinned_tweet_id": "2032773976389464163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756946292725747712/BDmXqs5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 379,
+          "like_count": 5611,
+          "listed_count": 96,
+          "media_count": 589,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/OVr9sqGR0G",
+        "username": "meeeei_Gt",
+        "verified": true
+      }
+    ]
+  }
+}

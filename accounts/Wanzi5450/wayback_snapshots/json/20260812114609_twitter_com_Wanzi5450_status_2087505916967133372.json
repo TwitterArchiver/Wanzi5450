@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2087496453707243691",
+    "created_at": "2026-08-12T11:46:09.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087505916967133372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667792526445780992",
+          "start": 0,
+          "username": "Midnight_Pigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087505916967133372",
+    "in_reply_to_user_id": "1667792526445780992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087497348956172547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midnight_Pigeon 嘿嘿😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2087496453707243691",
+        "created_at": "2026-08-12T11:46:09.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087505916967133372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667792526445780992",
+              "start": 0,
+              "username": "Midnight_Pigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087505916967133372",
+        "in_reply_to_user_id": "1667792526445780992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087497348956172547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midnight_Pigeon 嘿嘿😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667792526445780992",
+        "conversation_id": "2087496453707243691",
+        "created_at": "2026-08-12T11:12:06.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087497348956172547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087497348956172547",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087496453707243691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 很可爱（确信"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087505916967133372",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 371,
+          "like_count": 25693,
+          "listed_count": 0,
+          "media_count": 645,
+          "tweet_count": 4998
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T07:15:05.000Z",
+        "description": "小提琴手，开发者，创作者，调查员 | 犹格索托斯的浅信徒 | 中文&EN, (РЯ&日本語) \n在新加坡上学。有很多猫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "midnightpigeon.github.io",
+                "end": 23,
+                "expanded_url": "https://midnightpigeon.github.io/",
+                "start": 0,
+                "url": "https://t.co/ga64pDPLh2"
+              }
+            ]
+          }
+        },
+        "id": "1667792526445780992",
+        "is_identity_verified": false,
+        "location": "天空の城ラピュタ",
+        "most_recent_tweet_id": "2087497348956172547",
+        "name": "深夜",
+        "pinned_tweet_id": "2030174121557135695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667792526445780992/1755613262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726467606180474880/5d-QHXIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 130,
+          "like_count": 11403,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/ga64pDPLh2",
+        "username": "Midnight_Pigeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
