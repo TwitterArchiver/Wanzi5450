@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2096951399938728427",
+    "created_at": "2026-09-08T06:35:11.000Z",
+    "display_text_range": [
+      23,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097212131578200503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007095062161981440",
+          "start": 0,
+          "username": "Yoefno4u"
+        },
+        {
+          "end": 22,
+          "id": "1687566770763071489",
+          "start": 10,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097212131578200503",
+    "in_reply_to_user_id": "2007095062161981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097023178942103996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoefno4u @Olebe179131 宝宝可以私信我🥹🥹我卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2096951399938728427",
+        "created_at": "2026-09-08T06:35:11.000Z",
+        "display_text_range": [
+          23,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097212131578200503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007095062161981440",
+              "start": 0,
+              "username": "Yoefno4u"
+            },
+            {
+              "end": 22,
+              "id": "1687566770763071489",
+              "start": 10,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097212131578200503",
+        "in_reply_to_user_id": "2007095062161981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097023178942103996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoefno4u @Olebe179131 宝宝可以私信我🥹🥹我卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007095062161981440",
+        "conversation_id": "2096951399938728427",
+        "created_at": "2026-09-07T18:04:21.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097023178942103996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097023178942103996",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096951399938728427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097212131578200503",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 382,
+          "like_count": 27654,
+          "listed_count": 1,
+          "media_count": 676,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T14:22:21.000Z",
+        "description": "",
+        "id": "2007095062161981440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097023178942103996",
+        "name": "绾绾 ovo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007095685842366464/Wdvwkpsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 45,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Yoefno4u",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)蔚蓝档案\n欢迎互fo",
+        "id": "1687566770763071489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096951399938728427",
+        "name": "多柔比星",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687566770763071489/1774773459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089602346787774464/c8ZTtYIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 575,
+          "like_count": 29879,
+          "listed_count": 0,
+          "media_count": 1010,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "Olebe179131",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

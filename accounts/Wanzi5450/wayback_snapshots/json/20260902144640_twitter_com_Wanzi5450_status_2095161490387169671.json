@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2095087505691627775",
+    "created_at": "2026-09-02T14:46:40.000Z",
+    "display_text_range": [
+      13,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095161490387169671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "826962347436568576",
+          "start": 0,
+          "username": "ase12345632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095161490387169671",
+    "in_reply_to_user_id": "826962347436568576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095161122643226977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ase12345632 我真的談到台灣男友了w他現在大四 有聽他說過XDD雖然他大部分時間在大陸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095161122643226977].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095161122643226977",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095161122643226977"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2095087505691627775",
+        "created_at": "2026-09-02T14:46:40.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095161490387169671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "826962347436568576",
+              "start": 0,
+              "username": "ase12345632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095161490387169671",
+        "in_reply_to_user_id": "826962347436568576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095161122643226977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ase12345632 我真的談到台灣男友了w他現在大四 有聽他說過XDD雖然他大部分時間在大陸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095161490387169671",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 382,
+          "like_count": 27208,
+          "listed_count": 1,
+          "media_count": 676,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-02T01:16:02.000Z",
+        "description": "#ユイナーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "826962347436568576",
+        "is_identity_verified": false,
+        "location": "Kaohsiung City, Taiwan",
+        "most_recent_tweet_id": "2094970259677831347",
+        "name": "『ゆいん』",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826962347436568576/1719063253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931718260569124865/_5NAqqmU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 283,
+          "like_count": 3020,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1898
+        },
+        "url": "",
+        "username": "ase12345632",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097783450745139285",
+    "created_at": "2026-09-09T23:17:32.000Z",
+    "display_text_range": [
+      14,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T00:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097826772104737075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820727463405920256",
+          "start": 0,
+          "username": "haru_0324_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097826772104737075",
+    "in_reply_to_user_id": "1820727463405920256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097783450745139285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haru_0324_11 おはよー＾ω＾\n今日はやすみ🥳いま二度寝しようと思った(笑)\n今日も一日おつかれ(=´∀｀)人(´∀｀=)\nがんばってください❗️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097783450745139285",
+        "created_at": "2026-09-09T23:17:32.000Z",
+        "display_text_range": [
+          14,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097826772104737075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1820727463405920256",
+              "start": 0,
+              "username": "haru_0324_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097826772104737075",
+        "in_reply_to_user_id": "1820727463405920256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097783450745139285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haru_0324_11 おはよー＾ω＾\n今日はやすみ🥳いま二度寝しようと思った(笑)\n今日も一日おつかれ(=´∀｀)人(´∀｀=)\nがんばってください❗️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820727463405920256",
+        "conversation_id": "2097783450745139285",
+        "created_at": "2026-09-09T20:25:24.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T21:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097783450745139285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097783450745139285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あっかん寝てた、みんなおはよう"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL\n💊https://t.co/GiV9Titbj4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/wanzi5450",
+                "end": 48,
+                "expanded_url": "http://t.me/wanzi5450",
+                "start": 25,
+                "url": "https://t.co/GiV9Titbj4"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097826772104737075",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 386,
+          "like_count": 27827,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 5278
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T07:44:13.000Z",
+        "description": "男子高校生\nヨルシカ、Latte好き\nバドミントン🏸\n@halu_0324_11←サブ垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "halu_0324_11"
+              }
+            ]
+          }
+        },
+        "id": "1820727463405920256",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2097808532611686656",
+        "name": "はる",
+        "pinned_tweet_id": "2095099042007241061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820727463405920256/1782725032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090695598760706048/kR2Xwh1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 227,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "haru_0324_11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

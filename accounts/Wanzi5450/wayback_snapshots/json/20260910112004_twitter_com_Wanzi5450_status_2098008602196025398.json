@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097963368107884910",
+    "created_at": "2026-09-10T11:20:04.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098008602196025398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085668508915118080",
+          "start": 0,
+          "username": "qinlin_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098008602196025398",
+    "in_reply_to_user_id": "2085668508915118080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097999248654790983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinlin_love 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097963368107884910",
+        "created_at": "2026-09-10T11:20:04.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098008602196025398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085668508915118080",
+              "start": 0,
+              "username": "qinlin_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098008602196025398",
+        "in_reply_to_user_id": "2085668508915118080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097999248654790983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinlin_love 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085668508915118080",
+        "conversation_id": "2097963368107884910",
+        "created_at": "2026-09-10T10:42:54.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097999248654790983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097999248654790983",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097963368107884910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 还是这种渐变的部分染感觉舒服，好看，全染的话除了特定颜色，有些颜色真的很难驾驭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL\n💊https://t.co/GiV9Titbj4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/wanzi5450",
+                "end": 48,
+                "expanded_url": "http://t.me/wanzi5450",
+                "start": 25,
+                "url": "https://t.co/GiV9Titbj4"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098008602196025398",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 386,
+          "like_count": 27906,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5296
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T10:05:46.000Z",
+        "description": "嘶，写点啥呢？我看其他人都好文雅啊\n@tingzi_love\n questions?https://t.co/AIQ7Ig68iV\n“林檎似赤柰，亦名黑檎。”\n“一名来禽，言味甘，熟则来禽也。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tingzi_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 65,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 42,
+                "url": "https://t.co/AIQ7Ig68iV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "等过几天看看.com",
+                "end": 23,
+                "expanded_url": "http://xn--h9q80pz50aa045cly9a.com",
+                "start": 0,
+                "url": "https://t.co/woREa2hurR"
+              }
+            ]
+          }
+        },
+        "id": "2085668508915118080",
+        "is_identity_verified": false,
+        "location": "你所想的地方",
+        "most_recent_tweet_id": "2098007635866112406",
+        "name": "林檎",
+        "pinned_tweet_id": "2096849409585897493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085668508915118080/1786183301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092083333308248064/C759O-Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 148,
+          "like_count": 7648,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/woREa2hurR",
+        "username": "qinlin_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

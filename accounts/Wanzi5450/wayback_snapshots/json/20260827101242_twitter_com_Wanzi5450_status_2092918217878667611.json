@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092911426730102784"
+      ],
+      "media_source_tweet_id": [
+        "2092911432987980195"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2092918217878667611",
+    "created_at": "2026-08-27T10:12:42.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092918217878667611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1262011427587411973",
+          "start": 3,
+          "username": "yuika_singuitar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UfySvZtFLm",
+          "end": 61,
+          "expanded_url": "https://x.com/yuika_singuitar/status/2092911432987980195/photo/1",
+          "media_key": "3_2092911426730102784",
+          "start": 38,
+          "url": "https://t.co/UfySvZtFLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092918217878667611",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "alt_text": "旅館のお部屋の椅子に座っている浴衣姿の『ユイカ』。\nとたさんに撮ってもらいました。",
+        "media_key": "3_2092911426730102784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092911432987980195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_singuitar: 彼女と旅行なうに使っちゃだめです https://t.co/UfySvZtFLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "旅館のお部屋の椅子に座っている浴衣姿の『ユイカ』。\nとたさんに撮ってもらいました。",
+        "height": 1535,
+        "media_key": "3_2092911426730102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuD2piakAAGtOR.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092911426730102784"
+          ],
+          "media_source_tweet_id": [
+            "2092911432987980195"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2092918217878667611",
+        "created_at": "2026-08-27T10:12:42.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092918217878667611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1262011427587411973",
+              "start": 3,
+              "username": "yuika_singuitar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfySvZtFLm",
+              "end": 61,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2092911432987980195/photo/1",
+              "media_key": "3_2092911426730102784",
+              "start": 38,
+              "url": "https://t.co/UfySvZtFLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092918217878667611",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "旅館のお部屋の椅子に座っている浴衣姿の『ユイカ』。\nとたさんに撮ってもらいました。",
+            "media_key": "3_2092911426730102784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092911432987980195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_singuitar: 彼女と旅行なうに使っちゃだめです https://t.co/UfySvZtFLm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092911426730102784"
+          ]
+        },
+        "author_id": "1262011427587411973",
+        "conversation_id": "2092911432987980195",
+        "created_at": "2026-08-27T09:45:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092911432987980195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfySvZtFLm",
+              "end": 40,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2092911432987980195/photo/1",
+              "media_key": "3_2092911426730102784",
+              "start": 17,
+              "url": "https://t.co/UfySvZtFLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092911432987980195",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "旅館のお部屋の椅子に座っている浴衣姿の『ユイカ』。\nとたさんに撮ってもらいました。",
+            "media_key": "3_2092911426730102784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4658,
+          "like_count": 491,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "彼女と旅行なうに使っちゃだめです https://t.co/UfySvZtFLm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092918217878667611",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 375,
+          "like_count": 26530,
+          "listed_count": 0,
+          "media_count": 665,
+          "tweet_count": 5119
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/9/21(月・祝)ワンマンライブ「Sanvitalia」東京国際フォーラムホールAにて開催決定.ᐟ.ᐟ.ᐟ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-sanvit…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-sanvitalia/",
+                "start": 0,
+                "url": "https://t.co/AZxNWuJwtp"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "is_identity_verified": false,
+        "location": "↓9/21 「Sanvitalia」チケット申込はこちら🎫",
+        "most_recent_tweet_id": "2092911432987980195",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2090457282039738759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262011427587411973/1787238865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76132,
+          "following_count": 118,
+          "like_count": 18873,
+          "listed_count": 143,
+          "media_count": 792,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/AZxNWuJwtp",
+        "username": "yuika_singuitar",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

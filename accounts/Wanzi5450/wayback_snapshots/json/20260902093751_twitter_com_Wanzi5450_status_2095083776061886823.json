@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095083768000421888"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2095083776061886823",
+    "created_at": "2026-09-02T09:37:51.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095083776061886823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpyCj2ySb8",
+          "end": 31,
+          "expanded_url": "https://x.com/Wanzi5450/status/2095083776061886823/photo/1",
+          "media_key": "3_2095083768000421888",
+          "start": 8,
+          "url": "https://t.co/dpyCj2ySb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095083776061886823",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2095083768000421888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sensei！ https://t.co/dpyCj2ySb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095083768000421888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM7ljZaIAAfYqi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095083768000421888"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2095083776061886823",
+        "created_at": "2026-09-02T09:37:51.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095083776061886823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpyCj2ySb8",
+              "end": 31,
+              "expanded_url": "https://x.com/Wanzi5450/status/2095083776061886823/photo/1",
+              "media_key": "3_2095083768000421888",
+              "start": 8,
+              "url": "https://t.co/dpyCj2ySb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095083776061886823",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2095083768000421888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sensei！ https://t.co/dpyCj2ySb8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095083776061886823",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 381,
+          "like_count": 27143,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 5186
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2093633168419254492",
+    "created_at": "2026-08-29T09:51:48.000Z",
+    "display_text_range": [
+      20,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093637735403884605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        },
+        {
+          "end": 19,
+          "id": "1560989453849464834",
+          "start": 10,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093637735403884605",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093637669926355359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft @Liber537 笑吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2093633168419254492",
+        "created_at": "2026-08-29T09:51:48.000Z",
+        "display_text_range": [
+          20,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093637735403884605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            },
+            {
+              "end": 19,
+              "id": "1560989453849464834",
+              "start": 10,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093637735403884605",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093637669926355359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft @Liber537 笑吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2093633168419254492",
+        "created_at": "2026-08-29T09:51:33.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093637669926355359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            },
+            {
+              "end": 20,
+              "id": "1560989453849464834",
+              "start": 11,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093637669926355359",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093633168419254492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 @Liber537 好的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093637735403884605",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 377,
+          "like_count": 26743,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 5136
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2093637669926355359",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1784604220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 642,
+          "like_count": 12856,
+          "listed_count": 0,
+          "media_count": 465,
+          "tweet_count": 6198
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜梦想成为最自信的艺术家｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "is_identity_verified": false,
+        "location": "连线世界",
+        "most_recent_tweet_id": "2093238101397377349",
+        "name": "LIBER",
+        "pinned_tweet_id": "2011476498495209779",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560989453849464834/1785301789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086497553449963520/uvw-C8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 979,
+          "like_count": 75876,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

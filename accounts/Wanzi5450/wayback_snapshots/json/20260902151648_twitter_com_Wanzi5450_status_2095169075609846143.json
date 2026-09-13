@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2095077004005806433",
+    "created_at": "2026-09-02T15:16:48.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095169075609846143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560989453849464834",
+          "start": 0,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095169075609846143",
+    "in_reply_to_user_id": "1560989453849464834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095166930709880961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liber537 再见宣言！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2095166925332705282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROHN8macAIiAlm.jpg",
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2095077004005806433",
+        "created_at": "2026-09-02T15:16:48.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095169075609846143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095169075609846143",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095166930709880961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 再见宣言！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095166925332705282"
+          ]
+        },
+        "author_id": "1560989453849464834",
+        "conversation_id": "2095077004005806433",
+        "created_at": "2026-09-02T15:08:17.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095166930709880961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxGC3Ck5ON",
+              "end": 40,
+              "expanded_url": "https://x.com/Liber537/status/2095166930709880961/photo/1",
+              "media_key": "3_2095166925332705282",
+              "start": 17,
+              "url": "https://t.co/nxGC3Ck5ON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095166930709880961",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095166925332705282"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095077004005806433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 最后可爱捏 https://t.co/nxGC3Ck5ON"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095169075609846143",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 382,
+          "like_count": 27215,
+          "listed_count": 1,
+          "media_count": 676,
+          "tweet_count": 5209
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜梦想成为最自信的艺术家｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "is_identity_verified": false,
+        "location": "连线世界",
+        "most_recent_tweet_id": "2095166930709880961",
+        "name": "LIBER",
+        "pinned_tweet_id": "1972285130355138798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560989453849464834/1788021007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086497553449963520/uvw-C8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 985,
+          "like_count": 76262,
+          "listed_count": 4,
+          "media_count": 1025,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

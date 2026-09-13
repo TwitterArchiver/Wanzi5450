@@ -1,0 +1,828 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096212733880610816",
+        "3_2096212733855510528",
+        "3_2096212734006403072",
+        "3_2096212734006501377"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "The Verge",
+          "id": "1066103029693263872",
+          "name": "The Verge"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The Verge",
+          "id": "1066103029693263872",
+          "name": "The Verge"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2096212746216051145",
+    "created_at": "2026-09-05T12:23:59.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096212746216051145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 80,
+          "id": "1837496275656495107",
+          "start": 70,
+          "username": "Evigt_404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsegUBkysI",
+          "end": 104,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+          "media_key": "3_2096212733880610816",
+          "start": 81,
+          "url": "https://t.co/GsegUBkysI"
+        },
+        {
+          "display_url": "pic.x.com/GsegUBkysI",
+          "end": 104,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+          "media_key": "3_2096212733855510528",
+          "start": 81,
+          "url": "https://t.co/GsegUBkysI"
+        },
+        {
+          "display_url": "pic.x.com/GsegUBkysI",
+          "end": 104,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+          "media_key": "3_2096212734006403072",
+          "start": 81,
+          "url": "https://t.co/GsegUBkysI"
+        },
+        {
+          "display_url": "pic.x.com/GsegUBkysI",
+          "end": 104,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+          "media_key": "3_2096212734006501377",
+          "start": 81,
+          "url": "https://t.co/GsegUBkysI"
+        },
+        {
+          "display_url": "x.com/evigt_404/stat…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/evigt_404/status/2063319580752363921",
+          "start": 105,
+          "url": "https://t.co/Ht81qLaZQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096212746216051145",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096212733880610816"
+      },
+      {
+        "media_key": "3_2096212733855510528"
+      },
+      {
+        "media_key": "3_2096212734006403072"
+      },
+      {
+        "media_key": "3_2096212734006501377"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063319580752363921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来看我主人的漫画。完全神作\n这是他的小红书还有制品😽另外也做音乐，网站在他主页\n我主人是会弹贝斯钢琴还会画画编曲的神❤️‍🔥❤️‍🔥❤️‍🔥@Evigt_404 https://t.co/GsegUBkysI https://t.co/Ht81qLaZQN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2096212733880610816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc-YBCasAAk1IH.jpg",
+        "width": 987
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096212733855510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc-YA8bsAARiq9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096212734006403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc-YBgaIAAxj5P.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096212734006501377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc-YBgboAEM295.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2063319576860106753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiOSTbIAEAnG2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2063319576394539008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiOQkbIAA9Xu1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063319575425601536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiOM9aUAAAHox.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063319578047062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiOWuaoAAeWs_.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096212733880610816",
+            "3_2096212733855510528",
+            "3_2096212734006403072",
+            "3_2096212734006501377"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Verge",
+              "id": "1066103029693263872",
+              "name": "The Verge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Verge",
+              "id": "1066103029693263872",
+              "name": "The Verge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2096212746216051145",
+        "created_at": "2026-09-05T12:23:59.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096212746216051145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1837496275656495107",
+              "start": 70,
+              "username": "Evigt_404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsegUBkysI",
+              "end": 104,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+              "media_key": "3_2096212733880610816",
+              "start": 81,
+              "url": "https://t.co/GsegUBkysI"
+            },
+            {
+              "display_url": "pic.x.com/GsegUBkysI",
+              "end": 104,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+              "media_key": "3_2096212733855510528",
+              "start": 81,
+              "url": "https://t.co/GsegUBkysI"
+            },
+            {
+              "display_url": "pic.x.com/GsegUBkysI",
+              "end": 104,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+              "media_key": "3_2096212734006403072",
+              "start": 81,
+              "url": "https://t.co/GsegUBkysI"
+            },
+            {
+              "display_url": "pic.x.com/GsegUBkysI",
+              "end": 104,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212746216051145/photo/1",
+              "media_key": "3_2096212734006501377",
+              "start": 81,
+              "url": "https://t.co/GsegUBkysI"
+            },
+            {
+              "display_url": "x.com/evigt_404/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/evigt_404/status/2063319580752363921",
+              "start": 105,
+              "url": "https://t.co/Ht81qLaZQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096212746216051145",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096212733880610816"
+          },
+          {
+            "media_key": "3_2096212733855510528"
+          },
+          {
+            "media_key": "3_2096212734006403072"
+          },
+          {
+            "media_key": "3_2096212734006501377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063319580752363921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来看我主人的漫画。完全神作\n这是他的小红书还有制品😽另外也做音乐，网站在他主页\n我主人是会弹贝斯钢琴还会画画编曲的神❤️‍🔥❤️‍🔥❤️‍🔥@Evigt_404 https://t.co/GsegUBkysI https://t.co/Ht81qLaZQN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063319576860106753",
+            "3_2063319576394539008",
+            "3_2063319575425601536",
+            "3_2063319578047062016"
+          ]
+        },
+        "author_id": "1837496275656495107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Verge",
+              "id": "1066103029693263872",
+              "name": "The Verge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Verge",
+              "id": "1066103029693263872",
+              "name": "The Verge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2063319580752363921",
+        "created_at": "2026-06-06T17:58:17.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063319580752363921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 255,
+              "start": 249,
+              "tag": "ゆめにっき"
+            },
+            {
+              "end": 266,
+              "start": 256,
+              "tag": "yumenikki"
+            },
+            {
+              "end": 271,
+              "start": 267,
+              "tag": "art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwM6DsYBoj",
+              "end": 295,
+              "expanded_url": "https://x.com/Evigt_404/status/2063319580752363921/photo/1",
+              "media_key": "3_2063319576860106753",
+              "start": 272,
+              "url": "https://t.co/lwM6DsYBoj"
+            },
+            {
+              "display_url": "pic.x.com/lwM6DsYBoj",
+              "end": 295,
+              "expanded_url": "https://x.com/Evigt_404/status/2063319580752363921/photo/1",
+              "media_key": "3_2063319576394539008",
+              "start": 272,
+              "url": "https://t.co/lwM6DsYBoj"
+            },
+            {
+              "display_url": "pic.x.com/lwM6DsYBoj",
+              "end": 295,
+              "expanded_url": "https://x.com/Evigt_404/status/2063319580752363921/photo/1",
+              "media_key": "3_2063319575425601536",
+              "start": 272,
+              "url": "https://t.co/lwM6DsYBoj"
+            },
+            {
+              "display_url": "pic.x.com/lwM6DsYBoj",
+              "end": 295,
+              "expanded_url": "https://x.com/Evigt_404/status/2063319580752363921/photo/1",
+              "media_key": "3_2063319578047062016",
+              "start": 272,
+              "url": "https://t.co/lwM6DsYBoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063319580752363921",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2063319576860106753"
+          },
+          {
+            "media_key": "3_2063319576394539008"
+          },
+          {
+            "media_key": "3_2063319575425601536"
+          },
+          {
+            "media_key": "3_2063319578047062016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 10443,
+          "like_count": 401,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "At the verge of perpetuity\nI originally started this for Yume Nikki's 22nd anniversary, but I knew that if I didn't rush myself to finish it, it would probably never get done.\nthere's barely any logic to the storyboard or plot. CDW and OOC warning.\n#ゆめにっき #yumenikki #art https://t.co/lwM6DsYBoj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096212746216051145",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 383,
+          "like_count": 27386,
+          "listed_count": 1,
+          "media_count": 679,
+          "tweet_count": 5239
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: https://t.co/3VOadG5Iqv\nhttps://t.co/0UVFxsWFVv\nDiphenhydramine Victims Alliance",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "evigt.bandcamp.com",
+                "end": 33,
+                "expanded_url": "https://evigt.bandcamp.com",
+                "start": 10,
+                "url": "https://t.co/3VOadG5Iqv"
+              },
+              {
+                "display_url": "sysevi.bandcamp.com",
+                "end": 57,
+                "expanded_url": "https://sysevi.bandcamp.com",
+                "start": 34,
+                "url": "https://t.co/0UVFxsWFVv"
+              }
+            ]
+          }
+        },
+        "id": "1837496275656495107",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096211468979146919",
+        "name": "Evigt666",
+        "pinned_tweet_id": "2063319580752363921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837496275656495107/1727180985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 285,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "Evigt_404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

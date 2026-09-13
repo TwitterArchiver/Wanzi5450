@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2093729757062152261",
+    "created_at": "2026-08-29T16:01:32.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T17:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093730780145242409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560989453849464834",
+          "start": 0,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093730780145242409",
+    "in_reply_to_user_id": "1560989453849464834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093729757062152261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liber537 这个台词功底建议直接纳入北影教材。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2093729757062152261",
+        "created_at": "2026-08-29T16:01:32.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093730780145242409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093730780145242409",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093729757062152261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 这个台词功底建议直接纳入北影教材。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560989453849464834",
+        "conversation_id": "2093729757062152261",
+        "created_at": "2026-08-29T15:57:28.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093729757062152261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wanzi5450/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Wanzi5450/status/2093633168419254492",
+              "start": 26,
+              "url": "https://t.co/DQouZFc8pX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093729757062152261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093633168419254492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我表演老师看到我这么有信念感的话能给我减节体能课吗 https://t.co/DQouZFc8pX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093730780145242409",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 377,
+          "like_count": 26777,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 5143
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜梦想成为最自信的艺术家｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "is_identity_verified": false,
+        "location": "连线世界",
+        "most_recent_tweet_id": "2093729757062152261",
+        "name": "LIBER",
+        "pinned_tweet_id": "2011476498495209779",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560989453849464834/1788000266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086497553449963520/uvw-C8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 980,
+          "like_count": 76005,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 2700
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

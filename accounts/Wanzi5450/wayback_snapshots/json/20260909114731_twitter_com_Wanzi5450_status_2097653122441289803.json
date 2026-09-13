@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097607174881153404",
+    "created_at": "2026-09-09T11:47:31.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097653122441289803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999976305304145920",
+          "start": 0,
+          "username": "kawakawa9333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097653122441289803",
+    "in_reply_to_user_id": "1999976305304145920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097607174881153404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawakawa9333 FF失礼\nかわいいすぎるこれ😭わかる！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2097607168644263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwymzVasAA4IRL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097607174881153404",
+        "created_at": "2026-09-09T11:47:31.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097653122441289803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999976305304145920",
+              "start": 0,
+              "username": "kawakawa9333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097653122441289803",
+        "in_reply_to_user_id": "1999976305304145920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097607174881153404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawakawa9333 FF失礼\nかわいいすぎるこれ😭わかる！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097607168644263936"
+          ]
+        },
+        "author_id": "1999976305304145920",
+        "conversation_id": "2097607174881153404",
+        "created_at": "2026-09-09T08:44:56.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097607174881153404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5Yf85ihmJ",
+              "end": 26,
+              "expanded_url": "https://x.com/kawakawa9333/status/2097607174881153404/photo/1",
+              "media_key": "3_2097607168644263936",
+              "start": 3,
+              "url": "https://t.co/S5Yf85ihmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097607174881153404",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097607168644263936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 370,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "すき https://t.co/S5Yf85ihmJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL\n💊https://t.co/GiV9Titbj4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/wanzi5450",
+                "end": 48,
+                "expanded_url": "http://t.me/wanzi5450",
+                "start": 25,
+                "url": "https://t.co/GiV9Titbj4"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097653122441289803",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 385,
+          "like_count": 27807,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T22:57:41.000Z",
+        "description": "ユイナーです*ˊᵕˋ* よろしくお願いします!!\n#ユイナーさんと繋がりたい\nバレーコードの無い曲だけ弾きたいから貴方は人差し指担当ね！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 25,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kawa_t_t?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kawa_t_t?igsh=MTNjNjk5dm1hOHk5bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/krEhygnhBk"
+              }
+            ]
+          }
+        },
+        "id": "1999976305304145920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097609637289967672",
+        "name": "『かわ』",
+        "pinned_tweet_id": "2004395768254488920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999976305304145920/1786950852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001658705327329281/sqm2qLQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 146,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/krEhygnhBk",
+        "username": "kawakawa9333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

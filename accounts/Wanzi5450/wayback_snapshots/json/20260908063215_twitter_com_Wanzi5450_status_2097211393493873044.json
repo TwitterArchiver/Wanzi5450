@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097209687880147276",
+    "created_at": "2026-09-08T06:32:15.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097211393493873044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097211393493873044",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097209687880147276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可走平台"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097209675674693632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrJFqoaMAAuiEH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097209675691548672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrJFqsbYAAAEpV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097209687880147276",
+        "created_at": "2026-09-08T06:32:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097211393493873044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097211393493873044",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097209687880147276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可走平台"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097209675674693632",
+            "3_2097209675691548672"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097209687880147276",
+        "created_at": "2026-09-08T06:25:28.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097209687880147276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeoHhvVbUx",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2097209687880147276/photo/1",
+              "media_key": "3_2097209675674693632",
+              "start": 16,
+              "url": "https://t.co/BeoHhvVbUx"
+            },
+            {
+              "display_url": "pic.x.com/BeoHhvVbUx",
+              "end": 39,
+              "expanded_url": "https://x.com/Wanzi5450/status/2097209687880147276/photo/1",
+              "media_key": "3_2097209675691548672",
+              "start": 16,
+              "url": "https://t.co/BeoHhvVbUx"
+            },
+            {
+              "display_url": "x.com/wanzi5450/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/wanzi5450/status/2096991088611655972",
+              "start": 40,
+              "url": "https://t.co/Fki18PjMqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097209687880147276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097209675674693632"
+          },
+          {
+            "media_key": "3_2097209675691548672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096991088611655972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "111欢迎评论私信，均医院开取 https://t.co/BeoHhvVbUx https://t.co/Fki18PjMqW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097211393493873044",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 382,
+          "like_count": 27652,
+          "listed_count": 1,
+          "media_count": 676,
+          "tweet_count": 5254
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

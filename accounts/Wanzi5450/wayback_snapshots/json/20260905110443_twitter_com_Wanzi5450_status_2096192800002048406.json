@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096192788824244224",
+        "3_2096192788773924864"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096192800002048406",
+    "created_at": "2026-09-05T11:04:43.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096192800002048406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1837496275656495107",
+          "start": 13,
+          "username": "Evigt_404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBCZFbEBhZ",
+          "end": 66,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096192800002048406/photo/1",
+          "media_key": "3_2096192788824244224",
+          "start": 43,
+          "url": "https://t.co/CBCZFbEBhZ"
+        },
+        {
+          "display_url": "pic.x.com/CBCZFbEBhZ",
+          "end": 66,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096192800002048406/photo/1",
+          "media_key": "3_2096192788773924864",
+          "start": 43,
+          "url": "https://t.co/CBCZFbEBhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096192800002048406",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096192788824244224"
+      },
+      {
+        "media_key": "3_2096192788773924864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和主人一起吃了博多❤️‍🔥@Evigt_404 \n还有骑车回家的时候裤子被锁链勾住了 https://t.co/CBCZFbEBhZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096192788824244224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcsPD6awAAGfLh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096192788773924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcsPDua8AAIX8T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096192788824244224",
+            "3_2096192788773924864"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096192800002048406",
+        "created_at": "2026-09-05T11:04:43.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096192800002048406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1837496275656495107",
+              "start": 13,
+              "username": "Evigt_404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBCZFbEBhZ",
+              "end": 66,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096192800002048406/photo/1",
+              "media_key": "3_2096192788824244224",
+              "start": 43,
+              "url": "https://t.co/CBCZFbEBhZ"
+            },
+            {
+              "display_url": "pic.x.com/CBCZFbEBhZ",
+              "end": 66,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096192800002048406/photo/1",
+              "media_key": "3_2096192788773924864",
+              "start": 43,
+              "url": "https://t.co/CBCZFbEBhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096192800002048406",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096192788824244224"
+          },
+          {
+            "media_key": "3_2096192788773924864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和主人一起吃了博多❤️‍🔥@Evigt_404 \n还有骑车回家的时候裤子被锁链勾住了 https://t.co/CBCZFbEBhZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096192800002048406",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 382,
+          "like_count": 27371,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5235
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: https://t.co/3VOadG5Iqv\nhttps://t.co/0UVFxsWFVv\nDiphenhydramine Victims Alliance",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "evigt.bandcamp.com",
+                "end": 33,
+                "expanded_url": "https://evigt.bandcamp.com",
+                "start": 10,
+                "url": "https://t.co/3VOadG5Iqv"
+              },
+              {
+                "display_url": "sysevi.bandcamp.com",
+                "end": 57,
+                "expanded_url": "https://sysevi.bandcamp.com",
+                "start": 34,
+                "url": "https://t.co/0UVFxsWFVv"
+              }
+            ]
+          }
+        },
+        "id": "1837496275656495107",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096085954457133112",
+        "name": "Evigt666",
+        "pinned_tweet_id": "2063319580752363921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837496275656495107/1727180985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 285,
+          "like_count": 6164,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1752
+        },
+        "url": "",
+        "username": "Evigt_404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

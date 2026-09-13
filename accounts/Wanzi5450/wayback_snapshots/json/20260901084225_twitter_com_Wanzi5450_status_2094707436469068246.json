@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2094701311220760984",
+    "created_at": "2026-09-01T08:42:25.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094707436469068246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028472865327349761",
+          "start": 0,
+          "username": "hakunonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094707436469068246",
+    "in_reply_to_user_id": "2028472865327349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094701311220760984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakunonami 每天的看起来都好棒🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094701305185132544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHfvSYbYAA-kwq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2094701305231192064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHfvSjaMAAc00e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2094701311220760984",
+        "created_at": "2026-09-01T08:42:25.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094707436469068246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028472865327349761",
+              "start": 0,
+              "username": "hakunonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094707436469068246",
+        "in_reply_to_user_id": "2028472865327349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094701311220760984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakunonami 每天的看起来都好棒🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094701305185132544",
+            "3_2094701305231192064"
+          ]
+        },
+        "author_id": "2028472865327349761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094701311220760984",
+        "created_at": "2026-09-01T08:18:04.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094701311220760984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvqWyiEFxS",
+              "end": 25,
+              "expanded_url": "https://x.com/hakunonami/status/2094701311220760984/photo/1",
+              "media_key": "3_2094701305185132544",
+              "start": 2,
+              "url": "https://t.co/pvqWyiEFxS"
+            },
+            {
+              "display_url": "pic.x.com/pvqWyiEFxS",
+              "end": 25,
+              "expanded_url": "https://x.com/hakunonami/status/2094701311220760984/photo/1",
+              "media_key": "3_2094701305231192064",
+              "start": 2,
+              "url": "https://t.co/pvqWyiEFxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094701311220760984",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094701305185132544"
+          },
+          {
+            "media_key": "3_2094701305231192064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/pvqWyiEFxS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094707436469068246",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 380,
+          "like_count": 27080,
+          "listed_count": 1,
+          "media_count": 671,
+          "tweet_count": 5171
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T14:10:01.000Z",
+        "description": "🐧📷\n《七十七度以南》",
+        "id": "2028472865327349761",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2094701311220760984",
+        "name": "GwG",
+        "pinned_tweet_id": "2092595382488580516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028472865327349761/1777718877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070772878820478976/yuDm8tFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 470,
+          "like_count": 21777,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "hakunonami",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

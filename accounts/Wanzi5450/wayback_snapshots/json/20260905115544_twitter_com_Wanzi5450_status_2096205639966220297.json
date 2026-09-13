@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096205627853090816",
+        "3_2096205627840491520"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096205639966220297",
+    "created_at": "2026-09-05T11:55:44.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096205639966220297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9LF2bvmYE",
+          "end": 38,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096205639966220297/photo/1",
+          "media_key": "3_2096205627853090816",
+          "start": 15,
+          "url": "https://t.co/E9LF2bvmYE"
+        },
+        {
+          "display_url": "pic.x.com/E9LF2bvmYE",
+          "end": 38,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096205639966220297/photo/1",
+          "media_key": "3_2096205627840491520",
+          "start": 15,
+          "url": "https://t.co/E9LF2bvmYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096205639966220297",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096205627853090816"
+      },
+      {
+        "media_key": "3_2096205627840491520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现w3w4都是弱虫上的） https://t.co/E9LF2bvmYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096205627853090816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc36ZBbsAAklMF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096205627840491520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc36Y-bcAAMz6i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096205627853090816",
+            "3_2096205627840491520"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096205639966220297",
+        "created_at": "2026-09-05T11:55:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096205639966220297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9LF2bvmYE",
+              "end": 38,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096205639966220297/photo/1",
+              "media_key": "3_2096205627853090816",
+              "start": 15,
+              "url": "https://t.co/E9LF2bvmYE"
+            },
+            {
+              "display_url": "pic.x.com/E9LF2bvmYE",
+              "end": 38,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096205639966220297/photo/1",
+              "media_key": "3_2096205627840491520",
+              "start": 15,
+              "url": "https://t.co/E9LF2bvmYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096205639966220297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096205627853090816"
+          },
+          {
+            "media_key": "3_2096205627840491520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现w3w4都是弱虫上的） https://t.co/E9LF2bvmYE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096205639966220297",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 383,
+          "like_count": 27386,
+          "listed_count": 1,
+          "media_count": 679,
+          "tweet_count": 5239
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

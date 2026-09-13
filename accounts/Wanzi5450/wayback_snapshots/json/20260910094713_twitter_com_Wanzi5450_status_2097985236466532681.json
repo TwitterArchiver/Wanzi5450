@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097916990753321398",
+    "created_at": "2026-09-10T09:47:13.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097985236466532681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667792526445780992",
+          "start": 0,
+          "username": "Midnight_Pigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097985236466532681",
+    "in_reply_to_user_id": "1667792526445780992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097916990753321398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midnight_Pigeon 欸）好奇什么味道\n就是小甜水嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2097916979818754048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1MYL5bcAAMziF.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097916990753321398",
+        "created_at": "2026-09-10T09:47:13.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097985236466532681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667792526445780992",
+              "start": 0,
+              "username": "Midnight_Pigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097985236466532681",
+        "in_reply_to_user_id": "1667792526445780992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097916990753321398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midnight_Pigeon 欸）好奇什么味道\n就是小甜水嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097916979818754048"
+          ]
+        },
+        "author_id": "1667792526445780992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097916990753321398",
+        "created_at": "2026-09-10T05:16:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097916990753321398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHZR0WrXfx",
+              "end": 62,
+              "expanded_url": "https://x.com/Midnight_Pigeon/status/2097916990753321398/photo/1",
+              "media_key": "3_2097916979818754048",
+              "start": 39,
+              "url": "https://t.co/bHZR0WrXfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097916990753321398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097916979818754048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为对于蓝色的喜好和上一次蓝色饮品的记忆过于诱人，专门去韩国超市买了这个（） https://t.co/bHZR0WrXfx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL\n💊https://t.co/GiV9Titbj4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/wanzi5450",
+                "end": 48,
+                "expanded_url": "http://t.me/wanzi5450",
+                "start": 25,
+                "url": "https://t.co/GiV9Titbj4"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097985236466532681",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 386,
+          "like_count": 27887,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5289
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T07:15:05.000Z",
+        "description": "小提琴手，开发者，创作者，调查员 | 犹格索托斯的浅信徒 | 中文&EN, (РЯ&日本語) \n在新加坡上学。有很多猫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "midnightpigeon.github.io",
+                "end": 23,
+                "expanded_url": "https://midnightpigeon.github.io/",
+                "start": 0,
+                "url": "https://t.co/ga64pDPLh2"
+              }
+            ]
+          }
+        },
+        "id": "1667792526445780992",
+        "is_identity_verified": false,
+        "location": "天空の城ラピュタ",
+        "most_recent_tweet_id": "2097916990753321398",
+        "name": "深夜",
+        "pinned_tweet_id": "2030174121557135695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667792526445780992/1755613262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726467606180474880/5d-QHXIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 134,
+          "like_count": 12223,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/ga64pDPLh2",
+        "username": "Midnight_Pigeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

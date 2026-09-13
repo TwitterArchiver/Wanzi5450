@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096212175782318080",
+        "3_2096212175790690304"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2096212188906369099",
+    "created_at": "2026-09-05T12:21:46.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096212188906369099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SZUo1ayXu",
+          "end": 116,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212188906369099/photo/1",
+          "media_key": "3_2096212175782318080",
+          "start": 93,
+          "url": "https://t.co/9SZUo1ayXu"
+        },
+        {
+          "display_url": "pic.x.com/9SZUo1ayXu",
+          "end": 116,
+          "expanded_url": "https://x.com/Wanzi5450/status/2096212188906369099/photo/1",
+          "media_key": "3_2096212175790690304",
+          "start": 93,
+          "url": "https://t.co/9SZUo1ayXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096212188906369099",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096212175782318080"
+      },
+      {
+        "media_key": "3_2096212175790690304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一条置顶🔝\nmai弱体力不会打交互全靠吃水分之人\n最爱ヨルシカ，其它偏爱「ユイカ」/真夜中\n动漫也看一些，喜欢小女孩\n感兴趣的人会无言关注/自动回fo\n叫我丸子就好♡谢谢你们陪伴我 https://t.co/9SZUo1ayXu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096212175782318080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc93h9akAAA_dP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096212175790690304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc93h_aUAAT9de.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096212175782318080",
+            "3_2096212175790690304"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2096212188906369099",
+        "created_at": "2026-09-05T12:21:46.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096212188906369099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SZUo1ayXu",
+              "end": 116,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212188906369099/photo/1",
+              "media_key": "3_2096212175782318080",
+              "start": 93,
+              "url": "https://t.co/9SZUo1ayXu"
+            },
+            {
+              "display_url": "pic.x.com/9SZUo1ayXu",
+              "end": 116,
+              "expanded_url": "https://x.com/Wanzi5450/status/2096212188906369099/photo/1",
+              "media_key": "3_2096212175790690304",
+              "start": 93,
+              "url": "https://t.co/9SZUo1ayXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096212188906369099",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096212175782318080"
+          },
+          {
+            "media_key": "3_2096212175790690304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条置顶🔝\nmai弱体力不会打交互全靠吃水分之人\n最爱ヨルシカ，其它偏爱「ユイカ」/真夜中\n动漫也看一些，喜欢小女孩\n感兴趣的人会无言关注/自动回fo\n叫我丸子就好♡谢谢你们陪伴我 https://t.co/9SZUo1ayXu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096212188906369099",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 383,
+          "like_count": 27386,
+          "listed_count": 1,
+          "media_count": 679,
+          "tweet_count": 5239
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

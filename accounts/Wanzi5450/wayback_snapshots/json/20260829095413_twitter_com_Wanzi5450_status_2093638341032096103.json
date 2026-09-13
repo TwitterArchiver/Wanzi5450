@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2093633168419254492",
+    "created_at": "2026-08-29T09:54:13.000Z",
+    "display_text_range": [
+      22,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093638341032096103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        },
+        {
+          "end": 21,
+          "id": "1560989453849464834",
+          "start": 12,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093638341032096103",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093638256319762470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 @Liber537 我真的要笑死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093638256319762470].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093638256319762470",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093638256319762470"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2093633168419254492",
+        "created_at": "2026-08-29T09:54:13.000Z",
+        "display_text_range": [
+          22,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093638341032096103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            },
+            {
+              "end": 21,
+              "id": "1560989453849464834",
+              "start": 12,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093638341032096103",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093638256319762470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 @Liber537 我真的要笑死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093638341032096103",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 377,
+          "like_count": 26745,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 5138
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "demisexual｜enby｜生理🚺｜不会约任何｜友同友跨｜和我说话前请先把我当成一个生活里遇到的普通人类。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/OBOUCF2wSH"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092427724954714153",
+        "name": "Hazel",
+        "pinned_tweet_id": "2075532905737253266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938246407225532416/1751195214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 441,
+          "like_count": 13076,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 8250
+        },
+        "url": "https://t.co/OBOUCF2wSH",
+        "username": "Haze591200",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜梦想成为最自信的艺术家｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "is_identity_verified": false,
+        "location": "连线世界",
+        "most_recent_tweet_id": "2093238101397377349",
+        "name": "LIBER",
+        "pinned_tweet_id": "2011476498495209779",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560989453849464834/1785301789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086497553449963520/uvw-C8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 979,
+          "like_count": 75879,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

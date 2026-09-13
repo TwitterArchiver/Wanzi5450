@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2097221754544689480",
+    "created_at": "2026-09-08T07:13:25.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T08:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097221754544689480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You can view and join @wanzi5450 right away.",
+          "display_url": "t.me/wanzi5450",
+          "end": 32,
+          "expanded_url": "https://t.me/wanzi5450",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2097221757384171520/dZzw3WBn?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2097221757384171520/dZzw3WBn?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "wanzi",
+          "unwound_url": "https://t.me/wanzi5450",
+          "url": "https://t.co/1s0tD57zYD"
+        },
+        {
+          "display_url": "x.com/wanzi5450/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/wanzi5450/status/2096991088611655972",
+          "start": 33,
+          "url": "https://t.co/Fki18PjMqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097221754544689480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096991088611655972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怕被msk击杀所以https://t.co/1s0tD57zYD https://t.co/Fki18PjMqW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2097221754544689480",
+        "created_at": "2026-09-08T07:13:25.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097221754544689480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @wanzi5450 right away.",
+              "display_url": "t.me/wanzi5450",
+              "end": 32,
+              "expanded_url": "https://t.me/wanzi5450",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2097221757384171520/dZzw3WBn?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097221757384171520/dZzw3WBn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "wanzi",
+              "unwound_url": "https://t.me/wanzi5450",
+              "url": "https://t.co/1s0tD57zYD"
+            },
+            {
+              "display_url": "x.com/wanzi5450/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/wanzi5450/status/2096991088611655972",
+              "start": 33,
+              "url": "https://t.co/Fki18PjMqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097221754544689480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096991088611655972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怕被msk击杀所以https://t.co/1s0tD57zYD https://t.co/Fki18PjMqW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2096951399938728427",
+        "created_at": "2026-09-07T15:56:50.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096991088611655972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096991088611655972",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1074,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096951399938728427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 有！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097221754544689480",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 382,
+          "like_count": 27667,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 5261
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)蔚蓝档案\n欢迎互fo",
+        "id": "1687566770763071489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096951399938728427",
+        "name": "多柔比星",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687566770763071489/1774773459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089602346787774464/c8ZTtYIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 575,
+          "like_count": 29879,
+          "listed_count": 0,
+          "media_count": 1010,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "Olebe179131",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

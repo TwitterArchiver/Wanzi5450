@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2096531083286429958",
+    "created_at": "2026-09-06T09:48:02.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096535891183579179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609380631917776896",
+          "start": 0,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096535891183579179",
+    "in_reply_to_user_id": "1609380631917776896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096531083286429958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yt8964 🥺🥺🥺🥺喜欢这只猫💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2096531083286429958",
+        "created_at": "2026-09-06T09:48:02.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096535891183579179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096535891183579179",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096531083286429958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yt8964 🥺🥺🥺🥺喜欢这只猫💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609380631917776896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2096531083286429958",
+        "created_at": "2026-09-06T09:28:56.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096531083286429958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanzi5450/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wanzi5450/status/2096212188906369099",
+              "start": 6,
+              "url": "https://t.co/eiGNRYYTsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096531083286429958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096212188906369099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个 https://t.co/eiGNRYYTsw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096535891183579179",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 383,
+          "like_count": 27444,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 5235
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2y4cvikwgy4n55…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2y4cvikwgy4n55e?t=HEZBPO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/1jaGCXGcJD"
+              }
+            ]
+          }
+        },
+        "id": "1609380631917776896",
+        "is_identity_verified": false,
+        "location": "宛平南路600號",
+        "most_recent_tweet_id": "2096531083286429958",
+        "name": "晨昏線",
+        "pinned_tweet_id": "2042290012419735694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609380631917776896/1776758002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046414644261367808/ukHa-L-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 358,
+          "like_count": 27087,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/1jaGCXGcJD",
+        "username": "_Yt8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
