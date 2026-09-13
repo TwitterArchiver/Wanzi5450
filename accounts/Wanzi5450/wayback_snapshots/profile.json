@@ -1,11 +1,19 @@
 {
   "name": "マルコ",
   "username": "@Wanzi5450",
-  "bio": "叫我丸子就好",
+  "bio": "叫我丸子就好 \n偏爱@SamuelYuasaL",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "bio_entities": {},
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 23,
+        "start": 10,
+        "username": "SamuelYuasaL"
+      }
+    ]
+  },
   "_avatar_source": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg"
 }
