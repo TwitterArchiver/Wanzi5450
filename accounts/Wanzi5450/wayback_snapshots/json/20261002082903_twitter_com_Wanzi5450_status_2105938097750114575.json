@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2105596024773607451",
+    "created_at": "2026-10-02T08:29:03.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105938097750114575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815768206910668800",
+          "start": 0,
+          "username": "aoidailylife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105938097750114575",
+    "in_reply_to_user_id": "1815768206910668800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105596024773607451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoidailylife 纳豆好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2105596012048093184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiUasKbEAAvcvK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2105596024773607451",
+        "created_at": "2026-10-02T08:29:03.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105938097750114575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815768206910668800",
+              "start": 0,
+              "username": "aoidailylife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105938097750114575",
+        "in_reply_to_user_id": "1815768206910668800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105596024773607451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoidailylife 纳豆好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105596012048093184"
+          ]
+        },
+        "author_id": "1815768206910668800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105596024773607451",
+        "created_at": "2026-10-01T09:49:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105596024773607451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ7Rk75BPj",
+              "end": 23,
+              "expanded_url": "https://x.com/aoidailylife/status/2105596024773607451/photo/1",
+              "media_key": "3_2105596012048093184",
+              "start": 0,
+              "url": "https://t.co/JJ7Rk75BPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105596024773607451",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105596012048093184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 692,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JJ7Rk75BPj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105938097750114575",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 389,
+          "like_count": 28858,
+          "listed_count": 1,
+          "media_count": 691,
+          "tweet_count": 5385
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-23T15:17:41.000Z",
+        "description": "intp | 🏳️‍⚧️ | 赛博猫猫 | 热爱探索一切未知的东西 | 全职维修炼丹炉的三流魔法使 | 日本語の勉強をしています",
+        "id": "1815768206910668800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105687457878720579",
+        "name": "aoi今天吃什么",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815768206910668800/1767280018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105628154866147328/GVFWN2lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 5407,
+          "like_count": 120697,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "aoidailylife",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

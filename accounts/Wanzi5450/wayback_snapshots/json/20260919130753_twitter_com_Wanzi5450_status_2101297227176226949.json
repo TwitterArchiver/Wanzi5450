@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2101261820749140117",
+    "created_at": "2026-09-19T13:07:53.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101297227176226949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101297227176226949",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101261820749140117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 懂你意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101261800117284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkueWgWsAAAQjJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2101261820749140117",
+        "created_at": "2026-09-19T13:07:53.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101297227176226949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101297227176226949",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101261820749140117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101261800117284864"
+          ]
+        },
+        "author_id": "1225559787414401025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101261820749140117",
+        "created_at": "2026-09-19T10:47:12.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101261820749140117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKyi0I0cmb",
+              "end": 40,
+              "expanded_url": "https://x.com/Gun1nx/status/2101261820749140117/photo/1",
+              "media_key": "3_2101261800117284864",
+              "start": 17,
+              "url": "https://t.co/wKyi0I0cmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101261820749140117",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101261800117284864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餐bar不喝酒不社交埋头爽吃的来 https://t.co/wKyi0I0cmb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101297227176226949",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 391,
+          "like_count": 28480,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 5346
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "爱玩美少女游戏和打音游\n同好可以找我扩列聊天\n坐标厦门可以找我约勤\n会看成分回fo",
+        "id": "1225559787414401025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101261820749140117",
+        "name": "魔法少女雾枝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225559787414401025/1778063778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 155,
+          "like_count": 22597,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

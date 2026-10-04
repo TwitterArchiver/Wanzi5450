@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1838213691910795286",
+    "created_at": "2024-09-23T13:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T14:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838213691910795286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838213691910795286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838212280787648885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 皆様！！\nリプ返はこれでおしまいなのですが、これから全部のコメントを読ませていただきます…！！💭\n全部返せなくてごめんね😭\n\n改めて、本当に本当にいつも沢山の応援をありがとうございます✨\n\nこれからも皆さんに恩返しができるように頑張ってまいり…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1838213691910795286",
+        "created_at": "2024-09-23T13:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838213691910795286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838213691910795286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838212280787648885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 皆様！！\nリプ返はこれでおしまいなのですが、これから全部のコメントを読ませていただきます…！！💭\n全部返せなくてごめんね😭\n\n改めて、本当に本当にいつも沢山の応援をありがとうございます✨\n\nこれからも皆さんに恩返しができるように頑張ってまいり…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359055471106134016",
+        "conversation_id": "1838212280787648885",
+        "created_at": "2024-09-23T13:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838212280787648885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohinatamika/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1838194388016718096",
+              "start": 143,
+              "url": "https://t.co/E1H18EN8L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838212280787648885",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4360,
+          "like_count": 406,
+          "quote_count": 1,
+          "reply_count": 103,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838194388016718096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皆様！！\nリプ返はこれでおしまいなのですが、これから全部のコメントを読ませていただきます…！！💭\n全部返せなくてごめんね😭\n\n改めて、本当に本当にいつも沢山の応援をありがとうございます✨\n\nこれからも皆さんに恩返しができるように頑張ってまいりますので、よろしくお願いいたします…！！✨ https://t.co/E1H18EN8L7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 3217,
+          "listed_count": 0,
+          "tweet_count": 639
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #よりこのうたラジ 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "よりこのうたラジ"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1823332454998172013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51422,
+          "following_count": 338,
+          "like_count": 4249,
+          "listed_count": 522,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": false
+      }
+    ]
+  }
+}

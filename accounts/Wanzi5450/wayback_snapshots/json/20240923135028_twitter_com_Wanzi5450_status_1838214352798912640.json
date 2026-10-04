@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837741041421897732"
+      ],
+      "media_source_tweet_id": [
+        "1837741079401304211"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1838214352798912640",
+    "created_at": "2024-09-23T13:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T14:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838214352798912640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2276857964",
+          "start": 3,
+          "username": "GN_zangeX1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0d0aekoioj",
+          "end": 39,
+          "expanded_url": "https://twitter.com/GN_zangeX1/status/1837741079401304211/photo/1",
+          "media_key": "3_1837741041421897732",
+          "start": 16,
+          "url": "https://t.co/0D0aeKOioj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838214352798912640",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837741079401304211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GN_zangeX1: https://t.co/0D0aeKOioj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1837741041421897732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYD3vYsb0AQnu5q.jpg",
+        "width": 1908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837741041421897732"
+          ],
+          "media_source_tweet_id": [
+            "1837741079401304211"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1838214352798912640",
+        "created_at": "2024-09-23T13:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838214352798912640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2276857964",
+              "start": 3,
+              "username": "GN_zangeX1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d0aekoioj",
+              "end": 39,
+              "expanded_url": "https://twitter.com/GN_zangeX1/status/1837741079401304211/photo/1",
+              "media_key": "3_1837741041421897732",
+              "start": 16,
+              "url": "https://t.co/0D0aeKOioj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838214352798912640",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837741079401304211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GN_zangeX1: https://t.co/0D0aeKOioj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837741041421897732"
+          ]
+        },
+        "author_id": "2276857964",
+        "conversation_id": "1837741079401304211",
+        "created_at": "2024-09-22T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837741079401304211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d0aekoioj",
+              "end": 23,
+              "expanded_url": "https://twitter.com/GN_zangeX1/status/1837741079401304211/photo/1",
+              "media_key": "3_1837741041421897732",
+              "start": 0,
+              "url": "https://t.co/0D0aeKOioj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837741079401304211",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 41513,
+          "like_count": 2479,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0D0aeKOioj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 3242,
+          "listed_count": 0,
+          "tweet_count": 644
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-05T00:52:38.000Z",
+        "description": "ふたりなら最強✊でしょ✌️でしょ✋",
+        "id": "2276857964",
+        "location": "横転場外アサルトシュラウド",
+        "name": "ざんげみや🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770438269765120000/kN-VsU-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 1490,
+          "like_count": 53433,
+          "listed_count": 105,
+          "tweet_count": 138855
+        },
+        "username": "GN_zangeX1",
+        "verified": false
+      }
+    ]
+  }
+}

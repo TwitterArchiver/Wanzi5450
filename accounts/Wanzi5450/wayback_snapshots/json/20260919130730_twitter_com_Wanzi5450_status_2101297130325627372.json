@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2101279142725779817",
+    "created_at": "2026-09-19T13:07:30.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101297130325627372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820727463405920256",
+          "start": 0,
+          "username": "haru_0324_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101297130325627372",
+    "in_reply_to_user_id": "1820727463405920256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101279142725779817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haru_0324_11 うわぁぁぁぁすごいすぎる！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2101279142725779817",
+        "created_at": "2026-09-19T13:07:30.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101297130325627372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1820727463405920256",
+              "start": 0,
+              "username": "haru_0324_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101297130325627372",
+        "in_reply_to_user_id": "1820727463405920256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101279142725779817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haru_0324_11 うわぁぁぁぁすごいすぎる！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820727463405920256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "2101279142725779817",
+        "created_at": "2026-09-19T11:56:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101279142725779817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haru_0324_11/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/haru_0324_11/status/2101237658340995082",
+              "start": 11,
+              "url": "https://t.co/2ZBXATo32C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101279142725779817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101237658340995082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なんと、合計177匹 https://t.co/2ZBXATo32C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101297130325627372",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 391,
+          "like_count": 28479,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 5345
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T07:44:13.000Z",
+        "description": "男子高校生\nヨルシカ、Latte好き\nバドミントン🏸\n@halu_0324_11←サブ垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "halu_0324_11"
+              }
+            ]
+          }
+        },
+        "id": "1820727463405920256",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2101290284227399891",
+        "name": "はる",
+        "pinned_tweet_id": "2069386876025446871",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820727463405920256/1782725032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090695598760706048/kR2Xwh1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 236,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "haru_0324_11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

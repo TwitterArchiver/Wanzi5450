@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2105268055467237555",
+    "created_at": "2026-10-01T05:56:35.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105537338508239083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730504341771952128",
+          "start": 0,
+          "username": "PlayEthine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105537338508239083",
+    "in_reply_to_user_id": "1730504341771952128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105268055467237555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayEthine 彩框大神啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105267850474876928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdp9LCa8AA2rLj.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2105267885123964930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdp_MHaEAIXiao.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2105268055467237555",
+        "created_at": "2026-10-01T05:56:35.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105537338508239083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730504341771952128",
+              "start": 0,
+              "username": "PlayEthine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105537338508239083",
+        "in_reply_to_user_id": "1730504341771952128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105268055467237555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayEthine 彩框大神啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105267850474876928",
+            "3_2105267885123964930"
+          ]
+        },
+        "author_id": "1730504341771952128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105268055467237555",
+        "created_at": "2026-09-30T12:06:33.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105268055467237555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1dQWCIe7r",
+              "end": 30,
+              "expanded_url": "https://x.com/PlayEthine/status/2105268055467237555/photo/1",
+              "media_key": "3_2105267850474876928",
+              "start": 7,
+              "url": "https://t.co/Y1dQWCIe7r"
+            },
+            {
+              "display_url": "pic.x.com/Y1dQWCIe7r",
+              "end": 30,
+              "expanded_url": "https://x.com/PlayEthine/status/2105268055467237555/photo/1",
+              "media_key": "3_2105267885123964930",
+              "start": 7,
+              "url": "https://t.co/Y1dQWCIe7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105268055467237555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105267850474876928"
+          },
+          {
+            "media_key": "3_2105267885123964930"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真能上w5啊 https://t.co/Y1dQWCIe7r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105537338508239083",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 389,
+          "like_count": 28786,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 5377
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-01T08:29:40.000Z",
+        "description": "小兔兔 舞萌吃 有精神病\nxp tk什么的\n可能社恐\n在京\n碎碎念\n可以叫我a酱 あ酱（桑",
+        "id": "1730504341771952128",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2105268055467237555",
+        "name": "あかね",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1730504341771952128/1703735399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035011868012545/8vr8H2vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 131,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "PlayEthine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

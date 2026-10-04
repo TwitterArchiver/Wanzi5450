@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2099054298005209488",
+    "created_at": "2026-09-13T09:26:05.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099067080452771915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        },
+        {
+          "end": 25,
+          "id": "2093510269943386112",
+          "start": 12,
+          "username": "SamuelYuasal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099067080452771915",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099064531742072887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 @SamuelYuasal 是的w"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099064531742072887].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099064531742072887",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099064531742072887"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2099054298005209488",
+        "created_at": "2026-09-13T09:26:05.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099067080452771915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            },
+            {
+              "end": 25,
+              "id": "2093510269943386112",
+              "start": 12,
+              "username": "SamuelYuasal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099067080452771915",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099064531742072887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 @SamuelYuasal 是的w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099067080452771915",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 387,
+          "like_count": 28034,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 5313
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "demisexual｜enby｜生理🚺｜不会约任何｜友同友跨｜和我说话前请先把我当成一个生活里遇到的普通人类。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/OBOUCF2wSH"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097567094720344401",
+        "name": "Hazel",
+        "pinned_tweet_id": "2075532905737253266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938246407225532416/1751195214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 453,
+          "like_count": 13839,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 8816
+        },
+        "url": "https://t.co/OBOUCF2wSH",
+        "username": "Haze591200",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T01:31:04.000Z",
+        "description": "",
+        "id": "2093510269943386112",
+        "is_identity_verified": false,
+        "name": "Samuel Yu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096991068952862720/LqOcTtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "SamuelYuasal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

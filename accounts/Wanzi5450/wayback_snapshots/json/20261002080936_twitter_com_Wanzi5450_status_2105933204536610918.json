@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2105909050693341450",
+    "created_at": "2026-10-02T08:09:36.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105933204536610918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422919666305888264",
+          "start": 0,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105933204536610918",
+    "in_reply_to_user_id": "1422919666305888264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105909050693341450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@0x88FFA357 卡册卡嚓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2105909050693341450",
+        "created_at": "2026-10-02T08:09:36.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105933204536610918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105933204536610918",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105909050693341450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@0x88FFA357 卡册卡嚓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422919666305888264",
+        "conversation_id": "2105909050693341450",
+        "created_at": "2026-10-02T06:33:38.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105909050693341450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105909050693341450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "腐烂的树叶子踩着很舒服啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105933204536610918",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 389,
+          "like_count": 28852,
+          "listed_count": 1,
+          "media_count": 691,
+          "tweet_count": 5384
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "碎碎念偏多，技术内容较少",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "is_identity_verified": false,
+        "location": "__start + 0x15",
+        "most_recent_tweet_id": "2105909050693341450",
+        "name": "绣花锂",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872110176808960/XIhhunlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 1516,
+          "like_count": 176155,
+          "listed_count": 15,
+          "media_count": 80,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

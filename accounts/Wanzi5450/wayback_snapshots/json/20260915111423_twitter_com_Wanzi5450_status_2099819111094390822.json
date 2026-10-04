@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2099805142589849647",
+    "created_at": "2026-09-15T11:14:23.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099819111094390822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099819111094390822",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099805142589849647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 这是真的我每天都会摸一摸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099805142589849647].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099805142589849647",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099805142589849647"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2099805142589849647",
+        "created_at": "2026-09-15T11:14:23.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099819111094390822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099819111094390822",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099805142589849647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 这是真的我每天都会摸一摸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099819111094390822",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 389,
+          "like_count": 28197,
+          "listed_count": 1,
+          "media_count": 682,
+          "tweet_count": 5327
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "demisexual｜enby｜生理🚺｜不会约任何｜友同友跨｜和我说话前请先把我当成一个生活里遇到的普通人类。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/OBOUCF2wSH"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099201776910233934",
+        "name": "Hazel",
+        "pinned_tweet_id": "2075532905737253266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938246407225532416/1751195214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 456,
+          "like_count": 13939,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 8935
+        },
+        "url": "https://t.co/OBOUCF2wSH",
+        "username": "Haze591200",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

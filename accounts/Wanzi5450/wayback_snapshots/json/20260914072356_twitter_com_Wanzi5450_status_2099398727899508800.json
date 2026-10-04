@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2099345499040215363",
+    "created_at": "2026-09-14T07:23:56.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099398727899508800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099398727899508800",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099345499040215363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 什么？你怎么这么强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099345440412205056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJfjiSbAAAlit9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2099345499040215363",
+        "created_at": "2026-09-14T07:23:56.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099398727899508800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099398727899508800",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099345499040215363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 什么？你怎么这么强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099345440412205056"
+          ]
+        },
+        "author_id": "1700512333100126208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099345499040215363",
+        "created_at": "2026-09-14T03:52:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099345499040215363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCOBPX4ctj",
+              "end": 33,
+              "expanded_url": "https://x.com/5pr1ng6rIdge/status/2099345499040215363/photo/1",
+              "media_key": "3_2099345440412205056",
+              "start": 10,
+              "url": "https://t.co/TCOBPX4ctj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099345499040215363",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099345440412205056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么？我怎么这么强 https://t.co/TCOBPX4ctj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099398727899508800",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 390,
+          "like_count": 28112,
+          "listed_count": 1,
+          "media_count": 682,
+          "tweet_count": 5320
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I Love The World And Everything In It.\n@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssdfz.sh.cn",
+                "end": 23,
+                "expanded_url": "http://ssdfz.sh.cn",
+                "start": 0,
+                "url": "https://t.co/Y9zFSv4FHe"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "is_identity_verified": false,
+        "location": "fwarinben",
+        "most_recent_tweet_id": "2099376317359878537",
+        "name": "_idge🐱❔☂️🏴",
+        "pinned_tweet_id": "2060752247336935725",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700512333100126208/1754720861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096734016565350400/kSxaNqm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 952,
+          "like_count": 26650,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/Y9zFSv4FHe",
+        "username": "5pr1ng6rIdge",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

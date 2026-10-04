@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2100066527605313653",
+    "created_at": "2026-09-16T05:27:21.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100094165170426120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599359482529824768",
+          "start": 0,
+          "username": "114514zhexia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100094165170426120",
+    "in_reply_to_user_id": "1599359482529824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100088658393219189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514zhexia 强强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2100066527605313653",
+        "created_at": "2026-09-16T05:27:21.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100094165170426120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599359482529824768",
+              "start": 0,
+              "username": "114514zhexia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100094165170426120",
+        "in_reply_to_user_id": "1599359482529824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100088658393219189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514zhexia 强强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599359482529824768",
+        "conversation_id": "2100066527605313653",
+        "created_at": "2026-09-16T05:05:28.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100088658393219189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100088658393219189",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100066527605313653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 大水歌，三pc99"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100094165170426120",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 390,
+          "like_count": 28273,
+          "listed_count": 1,
+          "media_count": 683,
+          "tweet_count": 5332
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-04T11:07:01.000Z",
+        "description": "不卖 爱玩点小玩具喜欢的可以赞助买点小玩具玩玩 出点cos",
+        "id": "1599359482529824768",
+        "is_identity_verified": false,
+        "location": "Gladeview, FL",
+        "most_recent_tweet_id": "2100088934223212709",
+        "name": "mzk",
+        "pinned_tweet_id": "1659036106594324483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599359482529824768/1702571378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061534448542441472/M42MzW18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6804,
+          "following_count": 404,
+          "like_count": 942,
+          "listed_count": 33,
+          "media_count": 159,
+          "tweet_count": 1272
+        },
+        "url": "",
+        "username": "114514zhexia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

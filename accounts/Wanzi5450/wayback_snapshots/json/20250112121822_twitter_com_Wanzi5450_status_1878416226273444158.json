@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878329671731027968"
+      ],
+      "media_source_tweet_id": [
+        "1878396512713191699"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1878416226273444158",
+    "created_at": "2025-01-12T12:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T13:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878416226273444158"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Avoid Note",
+          "probability": 0.5833,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619243328389935104",
+          "start": 3,
+          "username": "kamenoko231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tRLEFiaIT",
+          "end": 51,
+          "expanded_url": "https://x.com/kamenoko231/status/1878396512713191699/photo/1",
+          "media_key": "3_1878329671731027968",
+          "start": 28,
+          "url": "https://t.co/4tRLEFiaIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878416226273444158",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 652
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878396512713191699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamenoko231: Avoid Note https://t.co/4tRLEFiaIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1878329671731027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhEq4naaoAAgzfM.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878329671731027968"
+          ],
+          "media_source_tweet_id": [
+            "1878396512713191699"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1878416226273444158",
+        "created_at": "2025-01-12T12:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T13:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878416226273444158"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Avoid Note",
+              "probability": 0.5833,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619243328389935104",
+              "start": 3,
+              "username": "kamenoko231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tRLEFiaIT",
+              "end": 51,
+              "expanded_url": "https://x.com/kamenoko231/status/1878396512713191699/photo/1",
+              "media_key": "3_1878329671731027968",
+              "start": 28,
+              "url": "https://t.co/4tRLEFiaIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878416226273444158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 652
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878396512713191699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamenoko231: Avoid Note https://t.co/4tRLEFiaIT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878329671731027968"
+          ]
+        },
+        "author_id": "1619243328389935104",
+        "conversation_id": "1878396512713191699",
+        "created_at": "2025-01-12T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878396512713191699"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Avoid Note",
+              "probability": 0.6796,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tRLEFiaIT",
+              "end": 34,
+              "expanded_url": "https://x.com/kamenoko231/status/1878396512713191699/photo/1",
+              "media_key": "3_1878329671731027968",
+              "start": 11,
+              "url": "https://t.co/4tRLEFiaIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878396512713191699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 26045,
+          "like_count": 2402,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 652
+        },
+        "reply_settings": "everyone",
+        "text": "Avoid Note https://t.co/4tRLEFiaIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 4367,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 887
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T07:58:00.000Z",
+        "description": "アニメ&アニソン(※特にバンド系)大好きです！ いろいろアニメ関連の情報発信やイラストアップします！^_^🤟 ※イラストはAI✖編集の作品を上げてます。",
+        "id": "1619243328389935104",
+        "name": "めの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868983316768276480/5O1E3lCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5642,
+          "following_count": 293,
+          "like_count": 1313,
+          "listed_count": 26,
+          "media_count": 83,
+          "tweet_count": 141
+        },
+        "username": "kamenoko231",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2100557902365049309",
+    "created_at": "2026-09-17T12:10:05.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100557902365049309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100557902365049309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100543947890401629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: 在某种程度上，我觉得文采是在用心咀嚼痛苦的软烂来兑换的，看着人们写出惊艳的文字为此触动的同时我其实难过也很多，因为我太明白从感受到表达这之间要再经历多少百转千回了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2100557902365049309",
+        "created_at": "2026-09-17T12:10:05.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100557902365049309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100557902365049309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100543947890401629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: 在某种程度上，我觉得文采是在用心咀嚼痛苦的软烂来兑换的，看着人们写出惊艳的文字为此触动的同时我其实难过也很多，因为我太明白从感受到表达这之间要再经历多少百转千回了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2100543947890401629",
+        "created_at": "2026-09-17T11:14:38.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100543947890401629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100543947890401629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在某种程度上，我觉得文采是在用心咀嚼痛苦的软烂来兑换的，看着人们写出惊艳的文字为此触动的同时我其实难过也很多，因为我太明白从感受到表达这之间要再经历多少百转千回了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 \n偏爱@SamuelYuasaL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "SamuelYuasaL"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100557902365049309",
+        "name": "マルコ",
+        "pinned_tweet_id": "2096212188906369099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738375202168532992/1771547552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 390,
+          "like_count": 28368,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 5338
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//努力不自杀中//蓝标会回fo//你喜欢我我喜欢你//喜欢我可以请我吃kiri//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJJjj"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2100550868261363901",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 200,
+          "like_count": 1460,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/7tXTqlJJjj",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
